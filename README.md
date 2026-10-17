@@ -9,33 +9,33 @@
 ### <code>( 01 ) // TRENDING UI & CLIENT TOOLS</code>
 
 #### **TYPESCRIPT & CORE**
-- **[chenglou/handwired](https://github.com/chenglou/handwired)** (`★ 1615`)
-  _Turn your regular JavaScript code into a neural net._
-
-- **[deeplethe/solid-glass](https://github.com/deeplethe/solid-glass)** (`★ 1567`)
+- **[deeplethe/solid-glass](https://github.com/deeplethe/solid-glass)** (`★ 1677`)
   _A design system for AI applications. Material, physical, tactile, technical._
 
-- **[Caho1/open-claude-ui](https://github.com/Caho1/open-claude-ui)** (`★ 1064`)
+- **[chenglou/handwired](https://github.com/chenglou/handwired)** (`★ 1644`)
+  _Turn your regular JavaScript code into a neural net._
+
+- **[Caho1/open-claude-ui](https://github.com/Caho1/open-claude-ui)** (`★ 1092`)
   _基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。还原 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分析手册。_
 
 #### **REACT & NEXT.JS**
-- **[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** (`★ 457231`)
+- **[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** (`★ 457260`)
   _freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free._
 
-- **[react/react](https://github.com/react/react)** (`★ 251183`)
+- **[react/react](https://github.com/react/react)** (`★ 251198`)
   _The library for web and native user interfaces._
 
-- **[vercel/next.js](https://github.com/vercel/next.js)** (`★ 143047`)
+- **[vercel/next.js](https://github.com/vercel/next.js)** (`★ 143052`)
   _The React Framework_
 
 #### **UI, DESIGN SYSTEMS & CSS**
-- **[onlook-dev/onlook](https://github.com/onlook-dev/onlook)** (`★ 26928`)
+- **[onlook-dev/onlook](https://github.com/onlook-dev/onlook)** (`★ 26930`)
   _The Developer Tool for Visual Engineers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers and Visual Engineers to design with Real Code._
 
 - **[pedronauck/docz](https://github.com/pedronauck/docz)** (`★ 23566`)
   _✍ It has never been so easy to document your things!_
 
-- **[gztchan/awesome-design](https://github.com/gztchan/awesome-design)** (`★ 17643`)
+- **[gztchan/awesome-design](https://github.com/gztchan/awesome-design)** (`★ 17644`)
   _🌟 Curated design resources from all over the world._
 
 #### **TOOLING & WEB PERFORMANCE**
@@ -52,11 +52,11 @@
 
 ### <code>( 02 ) // WEB & UI DISCUSSIONS</code>
 
-- [Ultramarine 1 Flash](https://www.paperinstruments.com/ultramarine) &nbsp; `▲ 207 pts` &nbsp; `💬 61`
-- [Tesla Roadster](https://www.tesla.com/roadster) &nbsp; `▲ 1384 pts` &nbsp; `💬 2434`
-- [Intuitive concurrent programming in any language](https://www.lf-lang.org/) &nbsp; `▲ 19 pts` &nbsp; `💬 0`
-- [California is building a $400M shield for Yosemite's most dangerous highway](https://www.sfchronicle.com/california/article/yosemite-national-park-highway-140-22463847.php) &nbsp; `▲ 37 pts` &nbsp; `💬 28`
-- [eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear](https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear) &nbsp; `▲ 214 pts` &nbsp; `💬 171`
+- [DeepSeek: DeepSeek v4.1 Flash 1017](https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017) &nbsp; `▲ 272 pts` &nbsp; `💬 97`
+- [Ultramarine 1 Flash](https://www.paperinstruments.com/ultramarine) &nbsp; `▲ 277 pts` &nbsp; `💬 90`
+- [Intuitive concurrent programming in any language](https://www.lf-lang.org/) &nbsp; `▲ 63 pts` &nbsp; `💬 14`
+- [eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear](https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear) &nbsp; `▲ 233 pts` &nbsp; `💬 209`
+- [JPEG XL vs. AVIF for web use-cases](https://jakearchibald.com/2026/jpeg-xl-vs-avif/) &nbsp; `▲ 276 pts` &nbsp; `💬 187`
 
 ---
 
