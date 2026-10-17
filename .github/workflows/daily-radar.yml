@@ -1,0 +1,47 @@
+name: Frontend Daily Tech Radar
+
+on:
+  schedule:
+    # Запуск 2 раза в день: 09:00 UTC и 21:00 UTC (со смещением от backend-radar)
+    - cron: "0 9,21 * * *"
+  workflow_dispatch:
+
+jobs:
+  radar:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run Frontend Radar Collector
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python3 main.py
+
+      - name: Commit and Push Updates
+        run: |
+          git config --global user.name "devodrag"
+          git config --global user.email "devodrag@users.noreply.github.com"
+
+          TODAY=$(date +'%Y-%m-%d')
+          
+          if [[ -n $(git status --porcelain archive/) ]]; then
+            git add archive/
+            git commit -m "feat(archive): index daily frontend telemetry for ${TODAY}"
+          fi
+
+          if [[ -n $(git status --porcelain README.md) ]]; then
+            git add README.md
+            git commit -m "docs(radar): update UI & client ecosystem radar [${TODAY}]"
+          fi
+
+          git push origin main || git push origin master
