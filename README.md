@@ -1,6 +1,6 @@
 <div align="center">
   <p><code><b>( • ) FRONTEND TECH RADAR &nbsp;|&nbsp; AUTOMATED DAILY PULSE</b></code></p>
-  <h1><b>FRONTEND RADAR // 2026-10-20</b></h1>
+  <h1><b>FRONTEND RADAR // 2026-10-21</b></h1>
   <p>Curated telemetry on TypeScript, React, Next.js, Design Systems, and Web Performance.</p>
 </div>
 
@@ -9,23 +9,23 @@
 ### <code>( 01 ) // TRENDING UI & CLIENT TOOLS</code>
 
 #### **TYPESCRIPT & CORE**
-- **[chenglou/handwired](https://github.com/chenglou/handwired)** (`★ 1853`)
+- **[chenglou/handwired](https://github.com/chenglou/handwired)** (`★ 1866`)
   _Turn your regular JavaScript code into a neural net._
 
-- **[Caho1/open-claude-ui](https://github.com/Caho1/open-claude-ui)** (`★ 1286`)
-  _基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。还原 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分析手册。_
+- **[stackedlol/ascii-sharks](https://github.com/stackedlol/ascii-sharks)** (`★ 673`)
+  _ascii shark components in typescript_
 
-- **[VictorTaelin/uniichat](https://github.com/VictorTaelin/uniichat)** (`★ 521`)
+- **[VictorTaelin/uniichat](https://github.com/VictorTaelin/uniichat)** (`★ 543`)
   _No description provided._
 
 #### **REACT & NEXT.JS**
-- **[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** (`★ 457580`)
+- **[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** (`★ 457613`)
   _freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free._
 
-- **[react/react](https://github.com/react/react)** (`★ 251593`)
+- **[react/react](https://github.com/react/react)** (`★ 251612`)
   _The library for web and native user interfaces._
 
-- **[vercel/next.js](https://github.com/vercel/next.js)** (`★ 143093`)
+- **[vercel/next.js](https://github.com/vercel/next.js)** (`★ 143111`)
   _The React Framework_
 
 #### **UI, DESIGN SYSTEMS & CSS**
@@ -35,7 +35,7 @@
 - **[pedronauck/docz](https://github.com/pedronauck/docz)** (`★ 23567`)
   _✍ It has never been so easy to document your things!_
 
-- **[gztchan/awesome-design](https://github.com/gztchan/awesome-design)** (`★ 17664`)
+- **[gztchan/awesome-design](https://github.com/gztchan/awesome-design)** (`★ 17666`)
   _🌟 Curated design resources from all over the world._
 
 #### **TOOLING & WEB PERFORMANCE**
@@ -52,11 +52,9 @@
 
 ### <code>( 02 ) // WEB & UI DISCUSSIONS</code>
 
-- [SimCity, but with Permits](https://permit.petercai.com/) &nbsp; `▲ 456 pts` &nbsp; `💬 248`
-- [Feds suspect ransom negotiator ran ShinyHunters extortion site](https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/) &nbsp; `▲ 33 pts` &nbsp; `💬 1`
-- [DeepInfer: High-performance inference framework for DeepSeek models](https://github.com/deepseek-ai/DeepInfer) &nbsp; `▲ 2090 pts` &nbsp; `💬 815`
-- [Tsrs: A Port of TypeScript to Rust](https://blog.cloudflare.com/typescript-rust-port/) &nbsp; `▲ 333 pts` &nbsp; `💬 149`
-- [Claude designed protein binders against scorpion neurotoxins](https://www.anthropic.com/research/claude-scorpion-toxin-binder-design) &nbsp; `▲ 86 pts` &nbsp; `💬 54`
+- [Updated PHP version released to GitHub](https://github.com/php/php-src/releases/tag/php-8.2.35) &nbsp; `▲ 187 pts` &nbsp; `💬 62`
+- [PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 out](https://www.php.net/index.php) &nbsp; `▲ 145 pts` &nbsp; `💬 34`
+- [The Future of CSS](https://www.joshwcomeau.com/css/interop-2027/) &nbsp; `▲ 489 pts` &nbsp; `💬 205`
 
 ---
 
