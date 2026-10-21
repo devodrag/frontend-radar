@@ -9,33 +9,33 @@
 ### <code>( 01 ) // TRENDING UI & CLIENT TOOLS</code>
 
 #### **TYPESCRIPT & CORE**
-- **[chenglou/handwired](https://github.com/chenglou/handwired)** (`★ 1866`)
+- **[chenglou/handwired](https://github.com/chenglou/handwired)** (`★ 1872`)
   _Turn your regular JavaScript code into a neural net._
 
-- **[stackedlol/ascii-sharks](https://github.com/stackedlol/ascii-sharks)** (`★ 673`)
+- **[stackedlol/ascii-sharks](https://github.com/stackedlol/ascii-sharks)** (`★ 716`)
   _ascii shark components in typescript_
 
-- **[VictorTaelin/uniichat](https://github.com/VictorTaelin/uniichat)** (`★ 543`)
+- **[VictorTaelin/uniichat](https://github.com/VictorTaelin/uniichat)** (`★ 551`)
   _No description provided._
 
 #### **REACT & NEXT.JS**
-- **[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** (`★ 457613`)
+- **[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** (`★ 457647`)
   _freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free._
 
-- **[react/react](https://github.com/react/react)** (`★ 251612`)
+- **[react/react](https://github.com/react/react)** (`★ 251622`)
   _The library for web and native user interfaces._
 
-- **[vercel/next.js](https://github.com/vercel/next.js)** (`★ 143111`)
+- **[vercel/next.js](https://github.com/vercel/next.js)** (`★ 143127`)
   _The React Framework_
 
 #### **UI, DESIGN SYSTEMS & CSS**
-- **[onlook-dev/onlook](https://github.com/onlook-dev/onlook)** (`★ 26971`)
+- **[onlook-dev/onlook](https://github.com/onlook-dev/onlook)** (`★ 26972`)
   _The Developer Tool for Visual Engineers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers and Visual Engineers to design with Real Code._
 
 - **[pedronauck/docz](https://github.com/pedronauck/docz)** (`★ 23567`)
   _✍ It has never been so easy to document your things!_
 
-- **[gztchan/awesome-design](https://github.com/gztchan/awesome-design)** (`★ 17666`)
+- **[gztchan/awesome-design](https://github.com/gztchan/awesome-design)** (`★ 17668`)
   _🌟 Curated design resources from all over the world._
 
 #### **TOOLING & WEB PERFORMANCE**
@@ -52,9 +52,11 @@
 
 ### <code>( 02 ) // WEB & UI DISCUSSIONS</code>
 
-- [Updated PHP version released to GitHub](https://github.com/php/php-src/releases/tag/php-8.2.35) &nbsp; `▲ 187 pts` &nbsp; `💬 62`
-- [PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 out](https://www.php.net/index.php) &nbsp; `▲ 145 pts` &nbsp; `💬 34`
-- [The Future of CSS](https://www.joshwcomeau.com/css/interop-2027/) &nbsp; `▲ 489 pts` &nbsp; `💬 205`
+- [Railway Security Disclosure](https://blog.railway.com/p/security-disclosure-wednesday-october-21st) &nbsp; `▲ 220 pts` &nbsp; `💬 98`
+- [Today's PHP security release, and how we're strengthening security](https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/) &nbsp; `▲ 637 pts` &nbsp; `💬 315`
+- [Google's Rust Style Guide](https://google.github.io/styleguide/rustguide.html) &nbsp; `▲ 160 pts` &nbsp; `💬 101`
+- [PHP web runtimes (CVE-2026-109618 and CVE-2026-109619)](https://aws.amazon.com/security/security-bulletins/2026-143-aws/) &nbsp; `▲ 93 pts` &nbsp; `💬 22`
+- [CleanFrame: A quieter home screen for Samsung The Frame](https://github.com/nthnclrk/CleanFrame) &nbsp; `▲ 17 pts` &nbsp; `💬 2`
 
 ---
 
