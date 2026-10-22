@@ -1,6 +1,6 @@
 <div align="center">
   <p><code><b>( • ) FRONTEND TECH RADAR &nbsp;|&nbsp; AUTOMATED DAILY PULSE</b></code></p>
-  <h1><b>FRONTEND RADAR // 2026-10-21</b></h1>
+  <h1><b>FRONTEND RADAR // 2026-10-22</b></h1>
   <p>Curated telemetry on TypeScript, React, Next.js, Design Systems, and Web Performance.</p>
 </div>
 
@@ -9,33 +9,33 @@
 ### <code>( 01 ) // TRENDING UI & CLIENT TOOLS</code>
 
 #### **TYPESCRIPT & CORE**
-- **[chenglou/handwired](https://github.com/chenglou/handwired)** (`★ 1872`)
-  _Turn your regular JavaScript code into a neural net._
-
-- **[stackedlol/ascii-sharks](https://github.com/stackedlol/ascii-sharks)** (`★ 716`)
+- **[stackedlol/ascii-sharks](https://github.com/stackedlol/ascii-sharks)** (`★ 755`)
   _ascii shark components in typescript_
 
-- **[VictorTaelin/uniichat](https://github.com/VictorTaelin/uniichat)** (`★ 551`)
+- **[VictorTaelin/uniichat](https://github.com/VictorTaelin/uniichat)** (`★ 558`)
   _No description provided._
 
+- **[zgsfsec/Full-Chain-Sentinel-System](https://github.com/zgsfsec/Full-Chain-Sentinel-System)** (`★ 397`)
+  _【全链哨兵】全流程渗透测试 Agent 系统，支持 Web、小程序、安卓 APP、IOS app(测试中)。安全服务渗透测试辅助工具，禁止用于非法攻击。_
+
 #### **REACT & NEXT.JS**
-- **[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** (`★ 457647`)
+- **[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** (`★ 457689`)
   _freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free._
 
-- **[react/react](https://github.com/react/react)** (`★ 251622`)
+- **[react/react](https://github.com/react/react)** (`★ 251682`)
   _The library for web and native user interfaces._
 
-- **[vercel/next.js](https://github.com/vercel/next.js)** (`★ 143127`)
+- **[vercel/next.js](https://github.com/vercel/next.js)** (`★ 143181`)
   _The React Framework_
 
 #### **UI, DESIGN SYSTEMS & CSS**
-- **[onlook-dev/onlook](https://github.com/onlook-dev/onlook)** (`★ 26972`)
+- **[onlook-dev/onlook](https://github.com/onlook-dev/onlook)** (`★ 26975`)
   _The Developer Tool for Visual Engineers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers and Visual Engineers to design with Real Code._
 
-- **[pedronauck/docz](https://github.com/pedronauck/docz)** (`★ 23567`)
+- **[pedronauck/docz](https://github.com/pedronauck/docz)** (`★ 23568`)
   _✍ It has never been so easy to document your things!_
 
-- **[gztchan/awesome-design](https://github.com/gztchan/awesome-design)** (`★ 17668`)
+- **[gztchan/awesome-design](https://github.com/gztchan/awesome-design)** (`★ 17670`)
   _🌟 Curated design resources from all over the world._
 
 #### **TOOLING & WEB PERFORMANCE**
@@ -52,11 +52,11 @@
 
 ### <code>( 02 ) // WEB & UI DISCUSSIONS</code>
 
-- [Railway Security Disclosure](https://blog.railway.com/p/security-disclosure-wednesday-october-21st) &nbsp; `▲ 220 pts` &nbsp; `💬 98`
-- [Today's PHP security release, and how we're strengthening security](https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/) &nbsp; `▲ 637 pts` &nbsp; `💬 315`
-- [Google's Rust Style Guide](https://google.github.io/styleguide/rustguide.html) &nbsp; `▲ 160 pts` &nbsp; `💬 101`
-- [PHP web runtimes (CVE-2026-109618 and CVE-2026-109619)](https://aws.amazon.com/security/security-bulletins/2026-143-aws/) &nbsp; `▲ 93 pts` &nbsp; `💬 22`
-- [CleanFrame: A quieter home screen for Samsung The Frame](https://github.com/nthnclrk/CleanFrame) &nbsp; `▲ 17 pts` &nbsp; `💬 2`
+- [eMudhra to Exit Global SSL/TLS Certificate Business](https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business) &nbsp; `▲ 54 pts` &nbsp; `💬 13`
+- [CVE-2026-111943: Compromised Intermediate Certificate Authority](https://nvd.nist.gov/vuln/detail/cve-2026-111943) &nbsp; `▲ 314 pts` &nbsp; `💬 102`
+- [WorldTUI: I trained a 360M model to pretend to be a terminal](https://simedw.com/2026/10/21/world-model-terminal/) &nbsp; `▲ 361 pts` &nbsp; `💬 114`
+- [Rust Style Guide](https://google.github.io/styleguide/rustguide.html) &nbsp; `▲ 344 pts` &nbsp; `💬 204`
+- [The Robot I Didn't Expect to Build](https://spectrum.ieee.org/agility-robotics-digit-5-redesign) &nbsp; `▲ 40 pts` &nbsp; `💬 29`
 
 ---
 
