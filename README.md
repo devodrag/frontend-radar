@@ -1,6 +1,6 @@
 <div align="center">
   <p><code><b>( • ) FRONTEND TECH RADAR &nbsp;|&nbsp; AUTOMATED DAILY PULSE</b></code></p>
-  <h1><b>FRONTEND RADAR // 2026-10-22</b></h1>
+  <h1><b>FRONTEND RADAR // 2026-10-23</b></h1>
   <p>Curated telemetry on TypeScript, React, Next.js, Design Systems, and Web Performance.</p>
 </div>
 
@@ -9,33 +9,33 @@
 ### <code>( 01 ) // TRENDING UI & CLIENT TOOLS</code>
 
 #### **TYPESCRIPT & CORE**
-- **[stackedlol/ascii-sharks](https://github.com/stackedlol/ascii-sharks)** (`★ 766`)
+- **[stackedlol/ascii-sharks](https://github.com/stackedlol/ascii-sharks)** (`★ 780`)
   _ascii shark components in typescript_
 
-- **[VictorTaelin/uniichat](https://github.com/VictorTaelin/uniichat)** (`★ 565`)
+- **[VictorTaelin/uniichat](https://github.com/VictorTaelin/uniichat)** (`★ 575`)
   _No description provided._
 
-- **[zgsfsec/Full-Chain-Sentinel-System](https://github.com/zgsfsec/Full-Chain-Sentinel-System)** (`★ 399`)
-  _【全链哨兵】全流程渗透测试 Agent 系统，支持 Web、小程序、安卓 APP、IOS app(测试中)。安全服务渗透测试辅助工具，禁止用于非法攻击。_
+- **[vercel-labs/fx0](https://github.com/vercel-labs/fx0)** (`★ 390`)
+  _A lightweight design agent built with libfx. Describe a page and an agent writes it as one HTML file._
 
 #### **REACT & NEXT.JS**
-- **[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** (`★ 457720`)
+- **[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** (`★ 457768`)
   _freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free._
 
-- **[react/react](https://github.com/react/react)** (`★ 251702`)
+- **[react/react](https://github.com/react/react)** (`★ 251711`)
   _The library for web and native user interfaces._
 
 - **[vercel/next.js](https://github.com/vercel/next.js)** (`★ 143195`)
   _The React Framework_
 
 #### **UI, DESIGN SYSTEMS & CSS**
-- **[onlook-dev/onlook](https://github.com/onlook-dev/onlook)** (`★ 26981`)
+- **[onlook-dev/onlook](https://github.com/onlook-dev/onlook)** (`★ 26991`)
   _The Developer Tool for Visual Engineers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers and Visual Engineers to design with Real Code._
 
 - **[pedronauck/docz](https://github.com/pedronauck/docz)** (`★ 23567`)
   _✍ It has never been so easy to document your things!_
 
-- **[gztchan/awesome-design](https://github.com/gztchan/awesome-design)** (`★ 17672`)
+- **[gztchan/awesome-design](https://github.com/gztchan/awesome-design)** (`★ 17675`)
   _🌟 Curated design resources from all over the world._
 
 #### **TOOLING & WEB PERFORMANCE**
@@ -52,11 +52,10 @@
 
 ### <code>( 02 ) // WEB & UI DISCUSSIONS</code>
 
-- [Quad9 (DNS Resolver) to Exit France](https://quad9.net/news/blog/au-revoir-france/) &nbsp; `▲ 943 pts` &nbsp; `💬 342`
-- [OpenShell – A safe, private runtime for fleets of autonomous AI agents](https://github.com/NVIDIA/OpenShell) &nbsp; `▲ 268 pts` &nbsp; `💬 137`
-- [How to Design Flowers](https://www.asimov.press/p/flowers) &nbsp; `▲ 7 pts` &nbsp; `💬 1`
-- [A farewell to Arc browser](https://arc.net/) &nbsp; `▲ 219 pts` &nbsp; `💬 199`
-- [Show HN: UI micro interactions prompts for AI](https://www.typeui.sh/micro-interactions) &nbsp; `▲ 68 pts` &nbsp; `💬 38`
+- [Investor-owned utilities charge 23% more for electricity than public providers](https://www.kadoa.com/energy-prices/insights/investor-owned-utilities) &nbsp; `▲ 64 pts` &nbsp; `💬 18`
+- [OpenSSL 4.1.0](https://github.com/openssl/openssl/releases/tag/openssl-4.1.0) &nbsp; `▲ 52 pts` &nbsp; `💬 9`
+- [Show HN: OnKey – I'm a bad singer, so I built an app to show where I'm off-key](https://github.com/dsmurrell/onkey) &nbsp; `▲ 97 pts` &nbsp; `💬 51`
+- [WorldTUI: I trained a 360M model to pretend to be a terminal](https://simedw.com/2026/10/21/world-model-terminal/) &nbsp; `▲ 569 pts` &nbsp; `💬 176`
 
 ---
 
