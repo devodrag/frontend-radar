@@ -9,33 +9,33 @@
 ### <code>( 01 ) // TRENDING UI & CLIENT TOOLS</code>
 
 #### **TYPESCRIPT & CORE**
-- **[designfuchen/word-atlas](https://github.com/designfuchen/word-atlas)** (`★ 2464`)
+- **[designfuchen/word-atlas](https://github.com/designfuchen/word-atlas)** (`★ 3006`)
   _词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset._
 
-- **[andyhuo520/digital-human-koubo](https://github.com/andyhuo520/digital-human-koubo)** (`★ 1069`)
+- **[andyhuo520/digital-human-koubo](https://github.com/andyhuo520/digital-human-koubo)** (`★ 1265`)
   _AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …_
 
-- **[surendrapandar/minilytics](https://github.com/surendrapandar/minilytics)** (`★ 705`)
-  _Opensource Revenue-first analytics for indie hackers & solo founders _
+- **[kargulstudio/calender-app-design](https://github.com/kargulstudio/calender-app-design)** (`★ 755`)
+  _No description provided._
 
 #### **REACT & NEXT.JS**
-- **[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** (`★ 458050`)
+- **[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** (`★ 458110`)
   _freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free._
 
-- **[react/react](https://github.com/react/react)** (`★ 251791`)
+- **[react/react](https://github.com/react/react)** (`★ 251779`)
   _The library for web and native user interfaces._
 
-- **[vercel/next.js](https://github.com/vercel/next.js)** (`★ 143172`)
+- **[vercel/next.js](https://github.com/vercel/next.js)** (`★ 143182`)
   _The React Framework_
 
 #### **UI, DESIGN SYSTEMS & CSS**
-- **[onlook-dev/onlook](https://github.com/onlook-dev/onlook)** (`★ 27018`)
+- **[onlook-dev/onlook](https://github.com/onlook-dev/onlook)** (`★ 27022`)
   _The Developer Tool for Visual Engineers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers and Visual Engineers to design with Real Code._
 
 - **[pedronauck/docz](https://github.com/pedronauck/docz)** (`★ 23566`)
   _✍ It has never been so easy to document your things!_
 
-- **[gztchan/awesome-design](https://github.com/gztchan/awesome-design)** (`★ 17700`)
+- **[gztchan/awesome-design](https://github.com/gztchan/awesome-design)** (`★ 17706`)
   _🌟 Curated design resources from all over the world._
 
 #### **TOOLING & WEB PERFORMANCE**
@@ -52,9 +52,11 @@
 
 ### <code>( 02 ) // WEB & UI DISCUSSIONS</code>
 
-- [Genie 4](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/) &nbsp; `▲ 680 pts` &nbsp; `💬 411`
-- [Ghostty 1.4](https://ghostty.org/docs/install/release-notes/1-4-0) &nbsp; `▲ 691 pts` &nbsp; `💬 214`
-- [Free daily JSON feed of Shanghai government subsidy notices](https://github.com/ZhongGheart/china-policy-data) &nbsp; `▲ 4 pts` &nbsp; `💬 0`
+- [Ten days later, Git on macOS still trusts the compromised eMudhra certificates](https://emudhra.we-have-a-problem.com/apple.html) &nbsp; `▲ 578 pts` &nbsp; `💬 221`
+- [CNC Stone Carving](https://carmelitegothic.com/cnc-stone-carving/) &nbsp; `▲ 78 pts` &nbsp; `💬 9`
+- [Ten days later, Git on macOS still trusts the compromised eMudhra certificates](https://emudhra.we-have-a-problem.com/apple.html) &nbsp; `▲ 578 pts` &nbsp; `💬 221`
+- [CNC Stone Carving](https://carmelitegothic.com/cnc-stone-carving/) &nbsp; `▲ 78 pts` &nbsp; `💬 9`
+- [Kentucky man becomes the first humanist granted religious exemption from AI](https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/) &nbsp; `▲ 153 pts` &nbsp; `💬 158`
 
 ---
 
