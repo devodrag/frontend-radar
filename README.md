@@ -9,33 +9,33 @@
 ### <code>( 01 ) // TRENDING UI & CLIENT TOOLS</code>
 
 #### **TYPESCRIPT & CORE**
-- **[designfuchen/word-atlas](https://github.com/designfuchen/word-atlas)** (`★ 3045`)
+- **[designfuchen/word-atlas](https://github.com/designfuchen/word-atlas)** (`★ 3214`)
   _词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset._
 
-- **[andyhuo520/digital-human-koubo](https://github.com/andyhuo520/digital-human-koubo)** (`★ 1305`)
+- **[andyhuo520/digital-human-koubo](https://github.com/andyhuo520/digital-human-koubo)** (`★ 1441`)
   _AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …_
 
-- **[kargulstudio/calender-app-design](https://github.com/kargulstudio/calender-app-design)** (`★ 788`)
+- **[kargulstudio/calender-app-design](https://github.com/kargulstudio/calender-app-design)** (`★ 797`)
   _No description provided._
 
 #### **REACT & NEXT.JS**
-- **[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** (`★ 458127`)
+- **[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** (`★ 458175`)
   _freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free._
 
-- **[react/react](https://github.com/react/react)** (`★ 251798`)
+- **[react/react](https://github.com/react/react)** (`★ 251817`)
   _The library for web and native user interfaces._
 
-- **[vercel/next.js](https://github.com/vercel/next.js)** (`★ 143187`)
+- **[vercel/next.js](https://github.com/vercel/next.js)** (`★ 143192`)
   _The React Framework_
 
 #### **UI, DESIGN SYSTEMS & CSS**
-- **[onlook-dev/onlook](https://github.com/onlook-dev/onlook)** (`★ 27025`)
+- **[onlook-dev/onlook](https://github.com/onlook-dev/onlook)** (`★ 27038`)
   _The Developer Tool for Visual Engineers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers and Visual Engineers to design with Real Code._
 
-- **[pedronauck/docz](https://github.com/pedronauck/docz)** (`★ 23566`)
+- **[pedronauck/docz](https://github.com/pedronauck/docz)** (`★ 23567`)
   _✍ It has never been so easy to document your things!_
 
-- **[gztchan/awesome-design](https://github.com/gztchan/awesome-design)** (`★ 17706`)
+- **[gztchan/awesome-design](https://github.com/gztchan/awesome-design)** (`★ 17715`)
   _🌟 Curated design resources from all over the world._
 
 #### **TOOLING & WEB PERFORMANCE**
@@ -52,10 +52,9 @@
 
 ### <code>( 02 ) // WEB & UI DISCUSSIONS</code>
 
-- [Why is this fingerprinting script creating bioweapons?](https://nullpt.rs/fingerprinting-bioweapons) &nbsp; `▲ 772 pts` &nbsp; `💬 176`
-- [GitLab Security Incident: Attempted Exploitation of CVE-2026-97229](https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html) &nbsp; `▲ 40 pts` &nbsp; `💬 3`
-- [The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand](https://www.circuithub.com/post/unveiling-the-grid) &nbsp; `▲ 402 pts` &nbsp; `💬 195`
-- [Leak website releases data on DHS employees](https://www.reuters.com/legal/government/leak-website-releases-data-tens-thousands-dhs-employees-2026-10-28/) &nbsp; `▲ 57 pts` &nbsp; `💬 10`
+- [Mistral Large 4 (Le Chonk) is now Open Weight](https://mistral.ai/news/mistral-large-4-oss/) &nbsp; `▲ 383 pts` &nbsp; `💬 88`
+- [DoorDash is acquiring Instacart for $17B](https://about.doordash.com/en-us/news/doordash-to-acquire-instacart) &nbsp; `▲ 81 pts` &nbsp; `💬 51`
+- [The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand](https://www.circuithub.com/post/unveiling-the-grid) &nbsp; `▲ 550 pts` &nbsp; `💬 244`
 
 ---
 
