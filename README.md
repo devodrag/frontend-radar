@@ -9,33 +9,33 @@
 ### <code>( 01 ) // TRENDING UI & CLIENT TOOLS</code>
 
 #### **TYPESCRIPT & CORE**
-- **[designfuchen/word-atlas](https://github.com/designfuchen/word-atlas)** (`★ 3358`)
+- **[anhao/ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh)** (`★ 4514`)
+  _中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊_
+
+- **[designfuchen/word-atlas](https://github.com/designfuchen/word-atlas)** (`★ 3507`)
   _词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset._
 
-- **[andyhuo520/digital-human-koubo](https://github.com/andyhuo520/digital-human-koubo)** (`★ 1551`)
-  _AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …_
-
-- **[qybaihe/bla](https://github.com/qybaihe/bla)** (`★ 1398`)
+- **[qybaihe/bla](https://github.com/qybaihe/bla)** (`★ 1643`)
   _🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate._
 
 #### **REACT & NEXT.JS**
-- **[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** (`★ 458247`)
+- **[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** (`★ 458292`)
   _freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free._
 
-- **[react/react](https://github.com/react/react)** (`★ 251784`)
+- **[morluto/rea](https://github.com/morluto/rea)** (`★ 414388`)
+  _Reverse engineer anything with agents, from app behavior down to native binaries._
+
+- **[react/react](https://github.com/react/react)** (`★ 251883`)
   _The library for web and native user interfaces._
 
-- **[vercel/next.js](https://github.com/vercel/next.js)** (`★ 143218`)
-  _The React Framework_
-
 #### **UI, DESIGN SYSTEMS & CSS**
-- **[onlook-dev/onlook](https://github.com/onlook-dev/onlook)** (`★ 27051`)
+- **[onlook-dev/onlook](https://github.com/onlook-dev/onlook)** (`★ 27060`)
   _The Developer Tool for Visual Engineers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers and Visual Engineers to design with Real Code._
 
 - **[pedronauck/docz](https://github.com/pedronauck/docz)** (`★ 23567`)
   _✍ It has never been so easy to document your things!_
 
-- **[gztchan/awesome-design](https://github.com/gztchan/awesome-design)** (`★ 17716`)
+- **[gztchan/awesome-design](https://github.com/gztchan/awesome-design)** (`★ 17719`)
   _🌟 Curated design resources from all over the world._
 
 #### **TOOLING & WEB PERFORMANCE**
@@ -52,11 +52,11 @@
 
 ### <code>( 02 ) // WEB & UI DISCUSSIONS</code>
 
-- [My favourite PowerMac is a Nintendo Wii](https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/) &nbsp; `▲ 225 pts` &nbsp; `💬 58`
-- [Cloudflare Turnstile solver library (no headless browser required)](https://github.com/chris124567/cfsolve) &nbsp; `▲ 37 pts` &nbsp; `💬 9`
-- [Breaking the open web won't stop the bad bots](https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/) &nbsp; `▲ 175 pts` &nbsp; `💬 74`
-- [A Pickpocket's Guide to New York](https://www.newyorker.com/magazine/2026/11/02/a-pickpockets-guide-to-new-york) &nbsp; `▲ 47 pts` &nbsp; `💬 7`
-- [Building an AI-native engineering org](https://twitter.com/sgondala2/status/2115832070274723875) &nbsp; `▲ 99 pts` &nbsp; `💬 133`
+- [Molly(Signal fork) has not been updated since 3 months and is vulnerable](https://piefed.world/post/1503394) &nbsp; `▲ 123 pts` &nbsp; `💬 77`
+- [Prospero: A new coding harness for a more civilized age](https://nullprogram.com/blog/2026/10/31/) &nbsp; `▲ 66 pts` &nbsp; `💬 38`
+- [Simple circuits can create complex behaviors](https://aatishb.com/myriad/lets-build-a-brain/) &nbsp; `▲ 44 pts` &nbsp; `💬 4`
+- [Show HN: Marelleo, an open-source story box I built for my kids using ESP32](https://zebra.rodeo/en/blog/marelleo/) &nbsp; `▲ 126 pts` &nbsp; `💬 36`
+- [Cloudflare Turnstile solver library (no headless browser required)](https://github.com/chris124567/cfsolve) &nbsp; `▲ 263 pts` &nbsp; `💬 89`
 
 ---
 
