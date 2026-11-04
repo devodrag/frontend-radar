@@ -9,33 +9,33 @@
 ### <code>( 01 ) // TRENDING UI & CLIENT TOOLS</code>
 
 #### **TYPESCRIPT & CORE**
-- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** (`★ 16761`)
+- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** (`★ 18393`)
   _Towards a More Autonomous Agent System_
 
-- **[caru-ini/stack-diagram](https://github.com/caru-ini/stack-diagram)** (`★ 1542`)
+- **[KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop)** (`★ 2303`)
+  _让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。_
+
+- **[caru-ini/stack-diagram](https://github.com/caru-ini/stack-diagram)** (`★ 1726`)
   _Agent skill: describe your stack in a sentence, get an architecture diagram with official logos_
 
-- **[mromidev/claude-animated-shorts](https://github.com/mromidev/claude-animated-shorts)** (`★ 1224`)
-  _Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion_
-
 #### **REACT & NEXT.JS**
-- **[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** (`★ 458503`)
+- **[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** (`★ 458535`)
   _freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free._
 
-- **[morluto/rea](https://github.com/morluto/rea)** (`★ 427105`)
+- **[morluto/rea](https://github.com/morluto/rea)** (`★ 429926`)
   _Reverse engineer anything with agents, from app behavior down to native binaries._
 
-- **[react/react](https://github.com/react/react)** (`★ 251900`)
+- **[react/react](https://github.com/react/react)** (`★ 251927`)
   _The library for web and native user interfaces._
 
 #### **UI, DESIGN SYSTEMS & CSS**
-- **[onlook-dev/onlook](https://github.com/onlook-dev/onlook)** (`★ 27107`)
+- **[onlook-dev/onlook](https://github.com/onlook-dev/onlook)** (`★ 27115`)
   _The Developer Tool for Visual Engineers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers and Visual Engineers to design with Real Code._
 
 - **[pedronauck/docz](https://github.com/pedronauck/docz)** (`★ 23565`)
   _✍ It has never been so easy to document your things!_
 
-- **[gztchan/awesome-design](https://github.com/gztchan/awesome-design)** (`★ 17733`)
+- **[gztchan/awesome-design](https://github.com/gztchan/awesome-design)** (`★ 17734`)
   _🌟 Curated design resources from all over the world._
 
 #### **TOOLING & WEB PERFORMANCE**
@@ -52,11 +52,11 @@
 
 ### <code>( 02 ) // WEB & UI DISCUSSIONS</code>
 
-- [The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer](https://arxiv.org/abs/2605.29713) &nbsp; `▲ 198 pts` &nbsp; `💬 32`
-- [Safari introduces Adaptive Dark Mode in 27.3](https://webkit.org/blog/18541/introducing-adaptive-dark-mode/) &nbsp; `▲ 261 pts` &nbsp; `💬 166`
-- [The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer](https://arxiv.org/abs/2605.29713) &nbsp; `▲ 198 pts` &nbsp; `💬 32`
-- [Safari introduces Adaptive Dark Mode in 27.3](https://webkit.org/blog/18541/introducing-adaptive-dark-mode/) &nbsp; `▲ 261 pts` &nbsp; `💬 166`
-- [The Internals of PostgreSQL](https://www.interdb.jp/pg/index.html) &nbsp; `▲ 82 pts` &nbsp; `💬 2`
+- [AI is forcing us to pay off 40 years of technical debt](https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability) &nbsp; `▲ 577 pts` &nbsp; `💬 379`
+- [Guerrilla Bike Lanes: San Francisco Makes Illicit Infrastructure Permanent (2016)](https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/) &nbsp; `▲ 80 pts` &nbsp; `💬 21`
+- [Show HN: I built a tool that prices a prebuilt PC part by part](https://pcdealcheck.com/) &nbsp; `▲ 11 pts` &nbsp; `💬 1`
+- [Mocktastic: A Meshtastic Node on Arduino](https://github.com/Vapmuz/Mocktastic) &nbsp; `▲ 13 pts` &nbsp; `💬 1`
+- [Pierre Computer is being acquired by OpenAI](https://twitter.com/pierrecomputer/status/2117999036175188183) &nbsp; `▲ 30 pts` &nbsp; `💬 12`
 
 ---
 
