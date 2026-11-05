@@ -9,33 +9,33 @@
 ### <code>( 01 ) // TRENDING UI & CLIENT TOOLS</code>
 
 #### **TYPESCRIPT & CORE**
-- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** (`★ 18587`)
+- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** (`★ 19361`)
   _Towards a More Autonomous Agent System_
 
-- **[KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop)** (`★ 2526`)
+- **[KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop)** (`★ 3165`)
   _让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。_
 
-- **[caru-ini/stack-diagram](https://github.com/caru-ini/stack-diagram)** (`★ 1752`)
+- **[caru-ini/stack-diagram](https://github.com/caru-ini/stack-diagram)** (`★ 1851`)
   _Agent skill: describe your stack in a sentence, get an architecture diagram with official logos_
 
 #### **REACT & NEXT.JS**
-- **[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** (`★ 458552`)
+- **[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** (`★ 458601`)
   _freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free._
 
-- **[morluto/rea](https://github.com/morluto/rea)** (`★ 430933`)
+- **[morluto/rea](https://github.com/morluto/rea)** (`★ 433547`)
   _Reverse engineer anything with agents, from app behavior down to native binaries._
 
-- **[react/react](https://github.com/react/react)** (`★ 251962`)
+- **[react/react](https://github.com/react/react)** (`★ 251991`)
   _The library for web and native user interfaces._
 
 #### **UI, DESIGN SYSTEMS & CSS**
-- **[onlook-dev/onlook](https://github.com/onlook-dev/onlook)** (`★ 27116`)
+- **[onlook-dev/onlook](https://github.com/onlook-dev/onlook)** (`★ 27120`)
   _The Developer Tool for Visual Engineers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers and Visual Engineers to design with Real Code._
 
 - **[pedronauck/docz](https://github.com/pedronauck/docz)** (`★ 23565`)
   _✍ It has never been so easy to document your things!_
 
-- **[gztchan/awesome-design](https://github.com/gztchan/awesome-design)** (`★ 17734`)
+- **[gztchan/awesome-design](https://github.com/gztchan/awesome-design)** (`★ 17736`)
   _🌟 Curated design resources from all over the world._
 
 #### **TOOLING & WEB PERFORMANCE**
@@ -52,11 +52,11 @@
 
 ### <code>( 02 ) // WEB & UI DISCUSSIONS</code>
 
-- [Residential proxies detected on White House network](https://layer3intel.com/blog/residential-proxies-white-house-network) &nbsp; `▲ 601 pts` &nbsp; `💬 194`
-- [Images 2.6](https://openai.com/index/introducing-images-2-6/) &nbsp; `▲ 71 pts` &nbsp; `💬 47`
-- [A new Go API for JSON](https://go.dev/blog/jsonv2) &nbsp; `▲ 221 pts` &nbsp; `💬 93`
-- [OpenAI to acquire Pierre Computer Company](https://openai.com/index/openai-to-acquire-pierre/) &nbsp; `▲ 178 pts` &nbsp; `💬 56`
-- [Show HN: I built a tool that prices a pre-built PC part by part](https://pcdealcheck.com/) &nbsp; `▲ 94 pts` &nbsp; `💬 66`
+- [Sshole](https://sshhole.com) &nbsp; `▲ 1263 pts` &nbsp; `💬 355`
+- [Alpine Linux Security advisory: OpenSSH-server password authentication bypass](https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/) &nbsp; `▲ 201 pts` &nbsp; `💬 10`
+- [Building a Multi-Agent System from Scratch: Architecture Patterns](https://kadhar.dev/blog/multi-agent-systems-from-scratch) &nbsp; `▲ 13 pts` &nbsp; `💬 4`
+- [Nordstjernen, Northstar, Southstar: minimalist webbrowsers in C and Rust](https://nordstjernen.org/) &nbsp; `▲ 15 pts` &nbsp; `💬 9`
+- [Lemmings CSS Animation](https://markblah.github.io/lemmings/) &nbsp; `▲ 337 pts` &nbsp; `💬 69`
 
 ---
 
