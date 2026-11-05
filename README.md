@@ -1,6 +1,6 @@
 <div align="center">
   <p><code><b>( • ) FRONTEND TECH RADAR &nbsp;|&nbsp; AUTOMATED DAILY PULSE</b></code></p>
-  <h1><b>FRONTEND RADAR // 2026-11-04</b></h1>
+  <h1><b>FRONTEND RADAR // 2026-11-05</b></h1>
   <p>Curated telemetry on TypeScript, React, Next.js, Design Systems, and Web Performance.</p>
 </div>
 
@@ -9,27 +9,27 @@
 ### <code>( 01 ) // TRENDING UI & CLIENT TOOLS</code>
 
 #### **TYPESCRIPT & CORE**
-- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** (`★ 18393`)
+- **[deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** (`★ 18587`)
   _Towards a More Autonomous Agent System_
 
-- **[KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop)** (`★ 2303`)
+- **[KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop)** (`★ 2526`)
   _让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。_
 
-- **[caru-ini/stack-diagram](https://github.com/caru-ini/stack-diagram)** (`★ 1726`)
+- **[caru-ini/stack-diagram](https://github.com/caru-ini/stack-diagram)** (`★ 1752`)
   _Agent skill: describe your stack in a sentence, get an architecture diagram with official logos_
 
 #### **REACT & NEXT.JS**
-- **[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** (`★ 458535`)
+- **[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** (`★ 458552`)
   _freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free._
 
-- **[morluto/rea](https://github.com/morluto/rea)** (`★ 429926`)
+- **[morluto/rea](https://github.com/morluto/rea)** (`★ 430933`)
   _Reverse engineer anything with agents, from app behavior down to native binaries._
 
-- **[react/react](https://github.com/react/react)** (`★ 251927`)
+- **[react/react](https://github.com/react/react)** (`★ 251962`)
   _The library for web and native user interfaces._
 
 #### **UI, DESIGN SYSTEMS & CSS**
-- **[onlook-dev/onlook](https://github.com/onlook-dev/onlook)** (`★ 27115`)
+- **[onlook-dev/onlook](https://github.com/onlook-dev/onlook)** (`★ 27116`)
   _The Developer Tool for Visual Engineers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers and Visual Engineers to design with Real Code._
 
 - **[pedronauck/docz](https://github.com/pedronauck/docz)** (`★ 23565`)
@@ -52,11 +52,11 @@
 
 ### <code>( 02 ) // WEB & UI DISCUSSIONS</code>
 
-- [AI is forcing us to pay off 40 years of technical debt](https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability) &nbsp; `▲ 577 pts` &nbsp; `💬 379`
-- [Guerrilla Bike Lanes: San Francisco Makes Illicit Infrastructure Permanent (2016)](https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/) &nbsp; `▲ 80 pts` &nbsp; `💬 21`
-- [Show HN: I built a tool that prices a prebuilt PC part by part](https://pcdealcheck.com/) &nbsp; `▲ 11 pts` &nbsp; `💬 1`
-- [Mocktastic: A Meshtastic Node on Arduino](https://github.com/Vapmuz/Mocktastic) &nbsp; `▲ 13 pts` &nbsp; `💬 1`
-- [Pierre Computer is being acquired by OpenAI](https://twitter.com/pierrecomputer/status/2117999036175188183) &nbsp; `▲ 30 pts` &nbsp; `💬 12`
+- [Residential proxies detected on White House network](https://layer3intel.com/blog/residential-proxies-white-house-network) &nbsp; `▲ 601 pts` &nbsp; `💬 194`
+- [Images 2.6](https://openai.com/index/introducing-images-2-6/) &nbsp; `▲ 71 pts` &nbsp; `💬 47`
+- [A new Go API for JSON](https://go.dev/blog/jsonv2) &nbsp; `▲ 221 pts` &nbsp; `💬 93`
+- [OpenAI to acquire Pierre Computer Company](https://openai.com/index/openai-to-acquire-pierre/) &nbsp; `▲ 178 pts` &nbsp; `💬 56`
+- [Show HN: I built a tool that prices a pre-built PC part by part](https://pcdealcheck.com/) &nbsp; `▲ 94 pts` &nbsp; `💬 66`
 
 ---
 
