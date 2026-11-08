@@ -1,6 +1,6 @@
 <div align="center">
   <p><code><b>( • ) FRONTEND TECH RADAR &nbsp;|&nbsp; AUTOMATED DAILY PULSE</b></code></p>
-  <h1><b>FRONTEND RADAR // 2026-11-07</b></h1>
+  <h1><b>FRONTEND RADAR // 2026-11-08</b></h1>
   <p>Curated telemetry on TypeScript, React, Next.js, Design Systems, and Web Performance.</p>
 </div>
 
@@ -9,33 +9,33 @@
 ### <code>( 01 ) // TRENDING UI & CLIENT TOOLS</code>
 
 #### **TYPESCRIPT & CORE**
-- **[KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop)** (`★ 3908`)
+- **[KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop)** (`★ 3951`)
   _让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。_
 
-- **[mromidev/claude-animated-shorts](https://github.com/mromidev/claude-animated-shorts)** (`★ 2149`)
-  _Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion_
-
-- **[Minireel/HGhub](https://github.com/Minireel/HGhub)** (`★ 2061`)
+- **[Minireel/HGhub](https://github.com/Minireel/HGhub)** (`★ 2292`)
   _YellowFruit third-party client_
 
+- **[livliv-dev/player](https://github.com/livliv-dev/player)** (`★ 1197`)
+  _A lightweight 2.5D character player for the web, with lip sync and webcam face tracking._
+
 #### **REACT & NEXT.JS**
-- **[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** (`★ 458701`)
+- **[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** (`★ 458721`)
   _freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free._
 
-- **[morluto/rea](https://github.com/morluto/rea)** (`★ 439967`)
+- **[morluto/rea](https://github.com/morluto/rea)** (`★ 440984`)
   _Reverse engineer anything with agents, from app behavior down to native binaries._
 
-- **[react/react](https://github.com/react/react)** (`★ 252354`)
+- **[react/react](https://github.com/react/react)** (`★ 252365`)
   _The library for web and native user interfaces._
 
 #### **UI, DESIGN SYSTEMS & CSS**
-- **[onlook-dev/onlook](https://github.com/onlook-dev/onlook)** (`★ 27134`)
+- **[onlook-dev/onlook](https://github.com/onlook-dev/onlook)** (`★ 27137`)
   _The Developer Tool for Visual Engineers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers and Visual Engineers to design with Real Code._
 
 - **[pedronauck/docz](https://github.com/pedronauck/docz)** (`★ 23560`)
   _✍ It has never been so easy to document your things!_
 
-- **[gztchan/awesome-design](https://github.com/gztchan/awesome-design)** (`★ 17743`)
+- **[gztchan/awesome-design](https://github.com/gztchan/awesome-design)** (`★ 17747`)
   _🌟 Curated design resources from all over the world._
 
 #### **TOOLING & WEB PERFORMANCE**
@@ -52,11 +52,11 @@
 
 ### <code>( 02 ) // WEB & UI DISCUSSIONS</code>
 
-- [The $8 Linux Computer (2022)](http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html) &nbsp; `▲ 32 pts` &nbsp; `💬 9`
-- [Need for Speed Underground 2 online in the browser](https://nfsu2.xyz/) &nbsp; `▲ 338 pts` &nbsp; `💬 108`
-- [British Library Legal deposit and web archiving](https://www.bl.uk/services/legal-deposit/web-archiving) &nbsp; `▲ 10 pts` &nbsp; `💬 0`
-- [Building the NBC News Big Board](https://ejfox.com/projects/nbc-big-board) &nbsp; `▲ 25 pts` &nbsp; `💬 7`
-- [Show HN: Spindle – a full-featured, type-safe web framework for OCaml 5](https://github.com/hyphatech/spindle) &nbsp; `▲ 24 pts` &nbsp; `💬 6`
+- [The end of Microsoft Research's AI Frontiers group](https://hunch.net/?p=13764006) &nbsp; `▲ 331 pts` &nbsp; `💬 193`
+- [What I run on my $10 USD OpenStick homelab](https://blog.bosscher.ch/posts/openstick/) &nbsp; `▲ 286 pts` &nbsp; `💬 69`
+- [Need for Speed Underground 2 online in the browser](https://nfsu2.xyz/) &nbsp; `▲ 777 pts` &nbsp; `💬 221`
+- [Text.js: Build full-stack React apps that render inside console.log](https://textjs.org/) &nbsp; `▲ 79 pts` &nbsp; `💬 46`
+- [IRA Velinsky – Commodore's Industrial Designer](https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/) &nbsp; `▲ 5 pts` &nbsp; `💬 0`
 
 ---
 
