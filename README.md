@@ -9,33 +9,33 @@
 ### <code>( 01 ) // TRENDING UI & CLIENT TOOLS</code>
 
 #### **TYPESCRIPT & CORE**
-- **[KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop)** (`★ 3951`)
+- **[KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop)** (`★ 4074`)
   _让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。_
 
-- **[Minireel/HGhub](https://github.com/Minireel/HGhub)** (`★ 2292`)
+- **[Minireel/HGhub](https://github.com/Minireel/HGhub)** (`★ 2873`)
   _YellowFruit third-party client_
 
-- **[livliv-dev/player](https://github.com/livliv-dev/player)** (`★ 1197`)
+- **[livliv-dev/player](https://github.com/livliv-dev/player)** (`★ 1310`)
   _A lightweight 2.5D character player for the web, with lip sync and webcam face tracking._
 
 #### **REACT & NEXT.JS**
-- **[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** (`★ 458721`)
+- **[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** (`★ 458753`)
   _freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free._
 
-- **[morluto/rea](https://github.com/morluto/rea)** (`★ 440984`)
+- **[morluto/rea](https://github.com/morluto/rea)** (`★ 442787`)
   _Reverse engineer anything with agents, from app behavior down to native binaries._
 
-- **[react/react](https://github.com/react/react)** (`★ 252365`)
+- **[react/react](https://github.com/react/react)** (`★ 252409`)
   _The library for web and native user interfaces._
 
 #### **UI, DESIGN SYSTEMS & CSS**
-- **[onlook-dev/onlook](https://github.com/onlook-dev/onlook)** (`★ 27137`)
+- **[onlook-dev/onlook](https://github.com/onlook-dev/onlook)** (`★ 27138`)
   _The Developer Tool for Visual Engineers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers and Visual Engineers to design with Real Code._
 
-- **[pedronauck/docz](https://github.com/pedronauck/docz)** (`★ 23560`)
+- **[pedronauck/docz](https://github.com/pedronauck/docz)** (`★ 23559`)
   _✍ It has never been so easy to document your things!_
 
-- **[gztchan/awesome-design](https://github.com/gztchan/awesome-design)** (`★ 17747`)
+- **[gztchan/awesome-design](https://github.com/gztchan/awesome-design)** (`★ 17752`)
   _🌟 Curated design resources from all over the world._
 
 #### **TOOLING & WEB PERFORMANCE**
@@ -52,11 +52,11 @@
 
 ### <code>( 02 ) // WEB & UI DISCUSSIONS</code>
 
-- [The end of Microsoft Research's AI Frontiers group](https://hunch.net/?p=13764006) &nbsp; `▲ 331 pts` &nbsp; `💬 193`
-- [What I run on my $10 USD OpenStick homelab](https://blog.bosscher.ch/posts/openstick/) &nbsp; `▲ 286 pts` &nbsp; `💬 69`
-- [Need for Speed Underground 2 online in the browser](https://nfsu2.xyz/) &nbsp; `▲ 777 pts` &nbsp; `💬 221`
-- [Text.js: Build full-stack React apps that render inside console.log](https://textjs.org/) &nbsp; `▲ 79 pts` &nbsp; `💬 46`
-- [IRA Velinsky – Commodore's Industrial Designer](https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/) &nbsp; `▲ 5 pts` &nbsp; `💬 0`
+- [Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU](https://github.com/synchopate/llama-modchip) &nbsp; `▲ 131 pts` &nbsp; `💬 39`
+- [Porting Android 16 to my blind mother's keypad phone](https://z1x.us/blog/four-hundred-bucks-of-e-waste) &nbsp; `▲ 68 pts` &nbsp; `💬 17`
+- [Need for Speed Underground 2 online in the browser](https://nfsu2.xyz/) &nbsp; `▲ 1070 pts` &nbsp; `💬 270`
+- [New typeface using intricate designs from Shakespeare's First Folio (2023)](https://www.itsnicethat.com/news/typeland-shakespeares-globe-amifer-folio-graphic-design-090323) &nbsp; `▲ 32 pts` &nbsp; `💬 11`
+- [Kirlian Photography: Building Your Own Equipment](https://imagesco.com/articles/kirlian/kirlian-photography.html) &nbsp; `▲ 64 pts` &nbsp; `💬 16`
 
 ---
 
