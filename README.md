@@ -9,30 +9,30 @@
 ### <code>( 01 ) // TRENDING UI & CLIENT TOOLS</code>
 
 #### **TYPESCRIPT & CORE**
-- **[rdeepak-wq121/quicken-deluxe-installer](https://github.com/rdeepak-wq121/quicken-deluxe-installer)** (`★ 773`)
-  _Quicken Deluxe Desktop Installer with Full Feature Set Enabled_
+- **[ebtsamalhakmy-sketch/desktop-backup-suite](https://github.com/ebtsamalhakmy-sketch/desktop-backup-suite)** (`★ 1296`)
+  _Aomei Backupper 2026: Full-Feature Desktop Backup and Recovery Suite_
 
-- **[SK-Dev666/rust-external-trainer-tool](https://github.com/SK-Dev666/rust-external-trainer-tool)** (`★ 773`)
-  _Rust External 2026: Full Standalone Trainer Setup, Tools and Dependencies Ready to Run_
+- **[tss878/delta-executor-toolkit](https://github.com/tss878/delta-executor-toolkit)** (`★ 1294`)
+  _Delta Executor for PC: Full Working Installer with All Tools Pre-Configured_
 
-- **[RolandoV3/metatrader-5-bot](https://github.com/RolandoV3/metatrader-5-bot)** (`★ 773`)
+- **[RolandoV3/metatrader-5-bot](https://github.com/RolandoV3/metatrader-5-bot)** (`★ 1203`)
   _Community-driven MetaTrader 5 bot with full features ready for desktop use_
 
 #### **REACT & NEXT.JS**
-- **[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** (`★ 458951`)
+- **[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** (`★ 458989`)
   _freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free._
 
-- **[morluto/rea](https://github.com/morluto/rea)** (`★ 450007`)
+- **[morluto/rea](https://github.com/morluto/rea)** (`★ 452043`)
   _Reverse engineer anything with agents, from app behavior down to native binaries._
 
-- **[react/react](https://github.com/react/react)** (`★ 252498`)
+- **[react/react](https://github.com/react/react)** (`★ 252470`)
   _The library for web and native user interfaces._
 
 #### **UI, DESIGN SYSTEMS & CSS**
-- **[onlook-dev/onlook](https://github.com/onlook-dev/onlook)** (`★ 27165`)
+- **[onlook-dev/onlook](https://github.com/onlook-dev/onlook)** (`★ 27169`)
   _The Developer Tool for Visual Engineers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers and Visual Engineers to design with Real Code._
 
-- **[pedronauck/docz](https://github.com/pedronauck/docz)** (`★ 23557`)
+- **[pedronauck/docz](https://github.com/pedronauck/docz)** (`★ 23558`)
   _✍ It has never been so easy to document your things!_
 
 - **[gztchan/awesome-design](https://github.com/gztchan/awesome-design)** (`★ 17759`)
@@ -52,11 +52,11 @@
 
 ### <code>( 02 ) // WEB & UI DISCUSSIONS</code>
 
-- [After 7 months, Glasswing overwelms maintainers with underwhelming findings](https://www.vulncheck.com/blog/anthropic-glasswing-november-update) &nbsp; `▲ 155 pts` &nbsp; `💬 52`
-- [Scion is back and is going to sell a kei truck in America](https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/) &nbsp; `▲ 307 pts` &nbsp; `💬 228`
-- [Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives](https://github.com/GoogleChrome/modern-web-guidance) &nbsp; `▲ 252 pts` &nbsp; `💬 72`
-- [Show HN: Aircad – Professional drafting and 3D modeling in the browser](https://aircad.com) &nbsp; `▲ 7 pts` &nbsp; `💬 2`
-- [An Open Field Guide to Inference Engineering](https://docs.modelplane.ai/guides/inference-guide) &nbsp; `▲ 68 pts` &nbsp; `💬 8`
+- [Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h](https://pietromiotti.com/latest/maya-site/?maya) &nbsp; `▲ 664 pts` &nbsp; `💬 252`
+- [Pharo in the Browser with WebAssembly](https://massimo-nocentini.github.io/pharo-vm/world.html) &nbsp; `▲ 74 pts` &nbsp; `💬 16`
+- [Atuin Threads: All your agent sessions on every machine](https://blog.atuin.sh/threads-agent-sessions/) &nbsp; `▲ 79 pts` &nbsp; `💬 31`
+- [Hyper-Realistic Sand with WebGL2](https://av.github.io/safe-sand/) &nbsp; `▲ 95 pts` &nbsp; `💬 17`
+- [The hardest notes to find on the guitar fretboard](https://www.gitori.com/blog/articles/hardest-notes-on-the-guitar-fretboard) &nbsp; `▲ 5 pts` &nbsp; `💬 1`
 
 ---
 
