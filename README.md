@@ -1,6 +1,6 @@
 <div align="center">
   <p><code><b>( • ) FRONTEND TECH RADAR &nbsp;|&nbsp; AUTOMATED DAILY PULSE</b></code></p>
-  <h1><b>FRONTEND RADAR // 2026-11-11</b></h1>
+  <h1><b>FRONTEND RADAR // 2026-11-12</b></h1>
   <p>Curated telemetry on TypeScript, React, Next.js, Design Systems, and Web Performance.</p>
 </div>
 
@@ -12,30 +12,30 @@
 - **[ebtsamalhakmy-sketch/desktop-backup-suite](https://github.com/ebtsamalhakmy-sketch/desktop-backup-suite)** (`★ 1296`)
   _Aomei Backupper 2026: Full-Feature Desktop Backup and Recovery Suite_
 
-- **[tss878/delta-executor-toolkit](https://github.com/tss878/delta-executor-toolkit)** (`★ 1294`)
+- **[tss878/delta-executor-toolkit](https://github.com/tss878/delta-executor-toolkit)** (`★ 1295`)
   _Delta Executor for PC: Full Working Installer with All Tools Pre-Configured_
 
-- **[RolandoV3/metatrader-5-bot](https://github.com/RolandoV3/metatrader-5-bot)** (`★ 1203`)
+- **[RolandoV3/metatrader-5-bot](https://github.com/RolandoV3/metatrader-5-bot)** (`★ 1204`)
   _Community-driven MetaTrader 5 bot with full features ready for desktop use_
 
 #### **REACT & NEXT.JS**
-- **[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** (`★ 458989`)
+- **[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** (`★ 459003`)
   _freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free._
 
-- **[morluto/rea](https://github.com/morluto/rea)** (`★ 452043`)
+- **[morluto/rea](https://github.com/morluto/rea)** (`★ 452884`)
   _Reverse engineer anything with agents, from app behavior down to native binaries._
 
-- **[react/react](https://github.com/react/react)** (`★ 252470`)
+- **[react/react](https://github.com/react/react)** (`★ 252526`)
   _The library for web and native user interfaces._
 
 #### **UI, DESIGN SYSTEMS & CSS**
-- **[onlook-dev/onlook](https://github.com/onlook-dev/onlook)** (`★ 27169`)
+- **[onlook-dev/onlook](https://github.com/onlook-dev/onlook)** (`★ 27170`)
   _The Developer Tool for Visual Engineers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers and Visual Engineers to design with Real Code._
 
-- **[pedronauck/docz](https://github.com/pedronauck/docz)** (`★ 23558`)
+- **[pedronauck/docz](https://github.com/pedronauck/docz)** (`★ 23557`)
   _✍ It has never been so easy to document your things!_
 
-- **[gztchan/awesome-design](https://github.com/gztchan/awesome-design)** (`★ 17759`)
+- **[gztchan/awesome-design](https://github.com/gztchan/awesome-design)** (`★ 17763`)
   _🌟 Curated design resources from all over the world._
 
 #### **TOOLING & WEB PERFORMANCE**
@@ -52,11 +52,11 @@
 
 ### <code>( 02 ) // WEB & UI DISCUSSIONS</code>
 
-- [Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h](https://pietromiotti.com/latest/maya-site/?maya) &nbsp; `▲ 664 pts` &nbsp; `💬 252`
-- [Pharo in the Browser with WebAssembly](https://massimo-nocentini.github.io/pharo-vm/world.html) &nbsp; `▲ 74 pts` &nbsp; `💬 16`
-- [Atuin Threads: All your agent sessions on every machine](https://blog.atuin.sh/threads-agent-sessions/) &nbsp; `▲ 79 pts` &nbsp; `💬 31`
-- [Hyper-Realistic Sand with WebGL2](https://av.github.io/safe-sand/) &nbsp; `▲ 95 pts` &nbsp; `💬 17`
-- [The hardest notes to find on the guitar fretboard](https://www.gitori.com/blog/articles/hardest-notes-on-the-guitar-fretboard) &nbsp; `▲ 5 pts` &nbsp; `💬 1`
+- [93% of Paint Splatters Are Valid Perl Programs (2019)](https://www.mcmillen.dev/sigbovik/) &nbsp; `▲ 160 pts` &nbsp; `💬 25`
+- [AWS emulator](https://github.com/aws/aws-emulator) &nbsp; `▲ 676 pts` &nbsp; `💬 217`
+- [Hyper-Realistic Sand with WebGL2](https://av.github.io/safe-sand/) &nbsp; `▲ 312 pts` &nbsp; `💬 64`
+- [Atuin Threads: All your agent sessions on every machine](https://blog.atuin.sh/threads-agent-sessions/) &nbsp; `▲ 191 pts` &nbsp; `💬 73`
+- [The hardest notes to find on the guitar](https://www.gitori.com/blog/articles/hardest-notes-on-the-guitar-fretboard) &nbsp; `▲ 51 pts` &nbsp; `💬 64`
 
 ---
 
