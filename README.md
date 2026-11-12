@@ -9,33 +9,33 @@
 ### <code>( 01 ) // TRENDING UI & CLIENT TOOLS</code>
 
 #### **TYPESCRIPT & CORE**
-- **[ebtsamalhakmy-sketch/desktop-backup-suite](https://github.com/ebtsamalhakmy-sketch/desktop-backup-suite)** (`★ 1296`)
+- **[ebtsamalhakmy-sketch/desktop-backup-suite](https://github.com/ebtsamalhakmy-sketch/desktop-backup-suite)** (`★ 1199`)
   _Aomei Backupper 2026: Full-Feature Desktop Backup and Recovery Suite_
 
-- **[tss878/delta-executor-toolkit](https://github.com/tss878/delta-executor-toolkit)** (`★ 1295`)
+- **[tss878/delta-executor-toolkit](https://github.com/tss878/delta-executor-toolkit)** (`★ 1198`)
   _Delta Executor for PC: Full Working Installer with All Tools Pre-Configured_
 
-- **[RolandoV3/metatrader-5-bot](https://github.com/RolandoV3/metatrader-5-bot)** (`★ 1204`)
+- **[RolandoV3/metatrader-5-bot](https://github.com/RolandoV3/metatrader-5-bot)** (`★ 1108`)
   _Community-driven MetaTrader 5 bot with full features ready for desktop use_
 
 #### **REACT & NEXT.JS**
-- **[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** (`★ 459003`)
+- **[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** (`★ 459041`)
   _freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free._
 
-- **[morluto/rea](https://github.com/morluto/rea)** (`★ 452884`)
+- **[morluto/rea](https://github.com/morluto/rea)** (`★ 454720`)
   _Reverse engineer anything with agents, from app behavior down to native binaries._
 
-- **[react/react](https://github.com/react/react)** (`★ 252526`)
+- **[react/react](https://github.com/react/react)** (`★ 252541`)
   _The library for web and native user interfaces._
 
 #### **UI, DESIGN SYSTEMS & CSS**
-- **[onlook-dev/onlook](https://github.com/onlook-dev/onlook)** (`★ 27170`)
+- **[onlook-dev/onlook](https://github.com/onlook-dev/onlook)** (`★ 27174`)
   _The Developer Tool for Visual Engineers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers and Visual Engineers to design with Real Code._
 
 - **[pedronauck/docz](https://github.com/pedronauck/docz)** (`★ 23557`)
   _✍ It has never been so easy to document your things!_
 
-- **[gztchan/awesome-design](https://github.com/gztchan/awesome-design)** (`★ 17763`)
+- **[gztchan/awesome-design](https://github.com/gztchan/awesome-design)** (`★ 17771`)
   _🌟 Curated design resources from all over the world._
 
 #### **TOOLING & WEB PERFORMANCE**
@@ -52,11 +52,11 @@
 
 ### <code>( 02 ) // WEB & UI DISCUSSIONS</code>
 
-- [93% of Paint Splatters Are Valid Perl Programs (2019)](https://www.mcmillen.dev/sigbovik/) &nbsp; `▲ 160 pts` &nbsp; `💬 25`
-- [AWS emulator](https://github.com/aws/aws-emulator) &nbsp; `▲ 676 pts` &nbsp; `💬 217`
-- [Hyper-Realistic Sand with WebGL2](https://av.github.io/safe-sand/) &nbsp; `▲ 312 pts` &nbsp; `💬 64`
-- [Atuin Threads: All your agent sessions on every machine](https://blog.atuin.sh/threads-agent-sessions/) &nbsp; `▲ 191 pts` &nbsp; `💬 73`
-- [The hardest notes to find on the guitar](https://www.gitori.com/blog/articles/hardest-notes-on-the-guitar-fretboard) &nbsp; `▲ 51 pts` &nbsp; `💬 64`
+- [NVIDIA Announces CEO Transition](https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition) &nbsp; `▲ 1427 pts` &nbsp; `💬 1179`
+- [Anthropic IPO](https://ipo.anthropic.com/us/) &nbsp; `▲ 536 pts` &nbsp; `💬 562`
+- [AWS Lambda Web Functions keep billing memory ~7 minutes after the last request](https://www.easel.sh/blog/lambda-web-functions-idle-memory) &nbsp; `▲ 8 pts` &nbsp; `💬 2`
+- [Running web sites makes me not want to](https://lowkey.party/running-web-sites-makes-me-not-want-to) &nbsp; `▲ 35 pts` &nbsp; `💬 17`
+- [Show HN: A self-hosted PHP platform combining CMS, e-commerce and more, built-in](https://getvale.org) &nbsp; `▲ 7 pts` &nbsp; `💬 2`
 
 ---
 
