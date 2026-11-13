@@ -1,6 +1,6 @@
 <div align="center">
   <p><code><b>( • ) FRONTEND TECH RADAR &nbsp;|&nbsp; AUTOMATED DAILY PULSE</b></code></p>
-  <h1><b>FRONTEND RADAR // 2026-11-12</b></h1>
+  <h1><b>FRONTEND RADAR // 2026-11-13</b></h1>
   <p>Curated telemetry on TypeScript, React, Next.js, Design Systems, and Web Performance.</p>
 </div>
 
@@ -9,33 +9,33 @@
 ### <code>( 01 ) // TRENDING UI & CLIENT TOOLS</code>
 
 #### **TYPESCRIPT & CORE**
-- **[ebtsamalhakmy-sketch/desktop-backup-suite](https://github.com/ebtsamalhakmy-sketch/desktop-backup-suite)** (`★ 1199`)
-  _Aomei Backupper 2026: Full-Feature Desktop Backup and Recovery Suite_
+- **[agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat)** (`★ 1185`)
+  _Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0._
 
-- **[tss878/delta-executor-toolkit](https://github.com/tss878/delta-executor-toolkit)** (`★ 1198`)
-  _Delta Executor for PC: Full Working Installer with All Tools Pre-Configured_
+- **[FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt)** (`★ 959`)
+  _Private AI meeting notes. Free and open source._
 
-- **[RolandoV3/metatrader-5-bot](https://github.com/RolandoV3/metatrader-5-bot)** (`★ 1108`)
-  _Community-driven MetaTrader 5 bot with full features ready for desktop use_
+- **[alexeyw/lot-map](https://github.com/alexeyw/lot-map)** (`★ 611`)
+  _A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 7 languages._
 
 #### **REACT & NEXT.JS**
-- **[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** (`★ 459041`)
+- **[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** (`★ 459058`)
   _freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free._
 
-- **[morluto/rea](https://github.com/morluto/rea)** (`★ 454720`)
+- **[morluto/rea](https://github.com/morluto/rea)** (`★ 455364`)
   _Reverse engineer anything with agents, from app behavior down to native binaries._
 
-- **[react/react](https://github.com/react/react)** (`★ 252541`)
+- **[react/react](https://github.com/react/react)** (`★ 252556`)
   _The library for web and native user interfaces._
 
 #### **UI, DESIGN SYSTEMS & CSS**
-- **[onlook-dev/onlook](https://github.com/onlook-dev/onlook)** (`★ 27174`)
+- **[onlook-dev/onlook](https://github.com/onlook-dev/onlook)** (`★ 27177`)
   _The Developer Tool for Visual Engineers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers and Visual Engineers to design with Real Code._
 
 - **[pedronauck/docz](https://github.com/pedronauck/docz)** (`★ 23557`)
   _✍ It has never been so easy to document your things!_
 
-- **[gztchan/awesome-design](https://github.com/gztchan/awesome-design)** (`★ 17771`)
+- **[gztchan/awesome-design](https://github.com/gztchan/awesome-design)** (`★ 17772`)
   _🌟 Curated design resources from all over the world._
 
 #### **TOOLING & WEB PERFORMANCE**
@@ -52,11 +52,11 @@
 
 ### <code>( 02 ) // WEB & UI DISCUSSIONS</code>
 
-- [NVIDIA Announces CEO Transition](https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition) &nbsp; `▲ 1427 pts` &nbsp; `💬 1179`
-- [Anthropic IPO](https://ipo.anthropic.com/us/) &nbsp; `▲ 536 pts` &nbsp; `💬 562`
-- [AWS Lambda Web Functions keep billing memory ~7 minutes after the last request](https://www.easel.sh/blog/lambda-web-functions-idle-memory) &nbsp; `▲ 8 pts` &nbsp; `💬 2`
-- [Running web sites makes me not want to](https://lowkey.party/running-web-sites-makes-me-not-want-to) &nbsp; `▲ 35 pts` &nbsp; `💬 17`
-- [Show HN: A self-hosted PHP platform combining CMS, e-commerce and more, built-in](https://getvale.org) &nbsp; `▲ 7 pts` &nbsp; `💬 2`
+- [Jensen Huang resigns](https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f) &nbsp; `▲ 2934 pts` &nbsp; `💬 2781`
+- [Rust 1.100](https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/) &nbsp; `▲ 416 pts` &nbsp; `💬 171`
+- [Show HN: My $300 embroidery machine needed a subscription, so I built my own app](https://github.com/simpsoka/zigzag) &nbsp; `▲ 333 pts` &nbsp; `💬 136`
+- [Relax: JIT compiler for Rust to reduce build times](https://makepad.github.io/relax/) &nbsp; `▲ 117 pts` &nbsp; `💬 49`
+- [Fortune Telling and Speculative Design](https://maggieappleton.com/fortune-telling) &nbsp; `▲ 4 pts` &nbsp; `💬 0`
 
 ---
 
