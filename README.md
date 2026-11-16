@@ -9,33 +9,33 @@
 ### <code>( 01 ) // TRENDING UI & CLIENT TOOLS</code>
 
 #### **TYPESCRIPT & CORE**
-- **[deepseek-ai/chat-demo](https://github.com/deepseek-ai/chat-demo)** (`★ 2965`)
+- **[deepseek-ai/chat-demo](https://github.com/deepseek-ai/chat-demo)** (`★ 3998`)
   _Chat Demo_
 
-- **[FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt)** (`★ 1649`)
+- **[FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt)** (`★ 1824`)
   _Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux._
 
-- **[JDhruv14/line-art-animation](https://github.com/JDhruv14/line-art-animation)** (`★ 834`)
-  _A Claude skill and TypeScript library for animated line-art SVG components: ink figures that walk and react, scenes with a day/night cycle._
+- **[ZiChuanLan/freebie-radar](https://github.com/ZiChuanLan/freebie-radar)** (`★ 1108`)
+  _白嫖与资讯资源聚合雷达：100+个源定时采集 + AI 二审过滤假福利 + 获取方式分级隔离抽奖/试用/推广 + Telegram 即时推送_
 
 #### **REACT & NEXT.JS**
-- **[morluto/rea](https://github.com/morluto/rea)** (`★ 461963`)
+- **[morluto/rea](https://github.com/morluto/rea)** (`★ 463744`)
   _Reverse engineer anything with agents, from app behavior down to native binaries._
 
-- **[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** (`★ 459184`)
+- **[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** (`★ 459213`)
   _freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free._
 
-- **[react/react](https://github.com/react/react)** (`★ 252656`)
+- **[react/react](https://github.com/react/react)** (`★ 252661`)
   _The library for web and native user interfaces._
 
 #### **UI, DESIGN SYSTEMS & CSS**
-- **[onlook-dev/onlook](https://github.com/onlook-dev/onlook)** (`★ 27223`)
+- **[onlook-dev/onlook](https://github.com/onlook-dev/onlook)** (`★ 27229`)
   _The Developer Tool for Visual Engineers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers and Visual Engineers to design with Real Code._
 
 - **[pedronauck/docz](https://github.com/pedronauck/docz)** (`★ 23554`)
   _✍ It has never been so easy to document your things!_
 
-- **[gztchan/awesome-design](https://github.com/gztchan/awesome-design)** (`★ 17785`)
+- **[gztchan/awesome-design](https://github.com/gztchan/awesome-design)** (`★ 17787`)
   _🌟 Curated design resources from all over the world._
 
 #### **TOOLING & WEB PERFORMANCE**
@@ -52,11 +52,10 @@
 
 ### <code>( 02 ) // WEB & UI DISCUSSIONS</code>
 
-- [Old Bitly Links Are Being Hijacked](https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/) &nbsp; `▲ 133 pts` &nbsp; `💬 64`
-- [Preserving 30 Years of Salon Journalism](https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/) &nbsp; `▲ 46 pts` &nbsp; `💬 9`
-- [WebGL Flight Simulator with seed generated terrain](https://baron.by.dai.studio/) &nbsp; `▲ 73 pts` &nbsp; `💬 9`
-- [Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]](https://www.youtube.com/watch?v=WPj3aQ-xxpI) &nbsp; `▲ 322 pts` &nbsp; `💬 160`
-- [Eclipse Mosquitto – An open source MQTT broker](https://github.com/eclipse-mosquitto/mosquitto) &nbsp; `▲ 59 pts` &nbsp; `💬 23`
+- [Grazing sheep in fields with solar arrays](https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains) &nbsp; `▲ 87 pts` &nbsp; `💬 70`
+- [Jiff 1.0: A datetime library for Rust](https://burntsushi.net/jiff/) &nbsp; `▲ 136 pts` &nbsp; `💬 36`
+- [Universal XSS in uBlock Origin from website-driven element picker](https://iter.ca/post/ubo-uxss/) &nbsp; `▲ 574 pts` &nbsp; `💬 163`
+- [Show HN: Fakemetrics.com – "build in public" like a superstar](https://fakemetrics.com/) &nbsp; `▲ 12 pts` &nbsp; `💬 0`
 
 ---
 
