@@ -9,33 +9,33 @@
 ### <code>( 01 ) // TRENDING UI & CLIENT TOOLS</code>
 
 #### **TYPESCRIPT & CORE**
-- **[deepseek-ai/chat-demo](https://github.com/deepseek-ai/chat-demo)** (`★ 4563`)
+- **[deepseek-ai/chat-demo](https://github.com/deepseek-ai/chat-demo)** (`★ 4793`)
   _Chat Demo_
 
-- **[ZiChuanLan/freebie-radar](https://github.com/ZiChuanLan/freebie-radar)** (`★ 1442`)
+- **[ZiChuanLan/freebie-radar](https://github.com/ZiChuanLan/freebie-radar)** (`★ 1599`)
   _白嫖与资讯资源聚合雷达：100+个源定时采集 + AI 二审过滤假福利 + 获取方式分级隔离抽奖/试用/推广 + Telegram 即时推送_
 
-- **[opencoredev/islandcn](https://github.com/opencoredev/islandcn)** (`★ 797`)
+- **[opencoredev/islandcn](https://github.com/opencoredev/islandcn)** (`★ 807`)
   _The open-source Dynamic Island for React, installed with shadcn._
 
 #### **REACT & NEXT.JS**
-- **[morluto/rea](https://github.com/morluto/rea)** (`★ 466493`)
+- **[morluto/rea](https://github.com/morluto/rea)** (`★ 467885`)
   _Reverse engineer anything with agents, from app behavior down to native binaries._
 
-- **[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** (`★ 459265`)
+- **[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** (`★ 459297`)
   _freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free._
 
-- **[react/react](https://github.com/react/react)** (`★ 252893`)
+- **[react/react](https://github.com/react/react)** (`★ 252783`)
   _The library for web and native user interfaces._
 
 #### **UI, DESIGN SYSTEMS & CSS**
-- **[onlook-dev/onlook](https://github.com/onlook-dev/onlook)** (`★ 27244`)
+- **[onlook-dev/onlook](https://github.com/onlook-dev/onlook)** (`★ 27260`)
   _The Developer Tool for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers and Visual Engineers to design with Real Code._
 
-- **[pedronauck/docz](https://github.com/pedronauck/docz)** (`★ 23555`)
+- **[pedronauck/docz](https://github.com/pedronauck/docz)** (`★ 23554`)
   _✍ It has never been so easy to document your things!_
 
-- **[gztchan/awesome-design](https://github.com/gztchan/awesome-design)** (`★ 17793`)
+- **[gztchan/awesome-design](https://github.com/gztchan/awesome-design)** (`★ 17797`)
   _🌟 Curated design resources from all over the world._
 
 #### **TOOLING & WEB PERFORMANCE**
@@ -52,10 +52,11 @@
 
 ### <code>( 02 ) // WEB & UI DISCUSSIONS</code>
 
-- [Java4Shell: RCE in OpenJDK when processing Base64](https://calif.io/java4shell/) &nbsp; `▲ 569 pts` &nbsp; `💬 149`
-- [ID.me terms required for IRS sign-in](https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in) &nbsp; `▲ 116 pts` &nbsp; `💬 33`
-- [Web Browser Engineering (2021)](https://browser.engineering/) &nbsp; `▲ 126 pts` &nbsp; `💬 20`
-- [Who Builds the Machines That Build the Machines?](https://read.corematter.com/p/section-232-us-machine-tools) &nbsp; `▲ 104 pts` &nbsp; `💬 29`
+- [Pre-auth RCE in Nginx HTTP/2 handling](https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities) &nbsp; `▲ 345 pts` &nbsp; `💬 113`
+- [Microsoft AI: Seven new world-class models at scalable price-performance](https://microsoft.ai/news/microsoft-ignite-2026/) &nbsp; `▲ 121 pts` &nbsp; `💬 74`
+- [Pre-auth RCE in Nginx HTTP/2 handling](https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities) &nbsp; `▲ 345 pts` &nbsp; `💬 113`
+- [Microsoft AI: Seven new world-class models at scalable price-performance](https://microsoft.ai/news/microsoft-ignite-2026/) &nbsp; `▲ 121 pts` &nbsp; `💬 74`
+- [Inside Deutsche Bank](https://www.inside-db.com/) &nbsp; `▲ 235 pts` &nbsp; `💬 81`
 
 ---
 
