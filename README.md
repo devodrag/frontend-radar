@@ -9,33 +9,33 @@
 ### <code>( 01 ) // TRENDING UI & CLIENT TOOLS</code>
 
 #### **TYPESCRIPT & CORE**
-- **[opencoredev/islandcn](https://github.com/opencoredev/islandcn)** (`★ 812`)
+- **[opencoredev/islandcn](https://github.com/opencoredev/islandcn)** (`★ 817`)
   _The open-source Dynamic Island for React, installed with shadcn._
 
-- **[ysunyang4/Nexus](https://github.com/ysunyang4/Nexus)** (`★ 406`)
+- **[ysunyang4/Nexus](https://github.com/ysunyang4/Nexus)** (`★ 430`)
   _Connect web AI assistants to local files, terminals, Git, and desktop tools through MCP, with user-controlled permissions._
 
-- **[Forward-Future/scarlet](https://github.com/Forward-Future/scarlet)** (`★ 364`)
+- **[Forward-Future/scarlet](https://github.com/Forward-Future/scarlet)** (`★ 371`)
   _Scarlet is an AI video editor for macOS and Windows._
 
 #### **REACT & NEXT.JS**
-- **[morluto/rea](https://github.com/morluto/rea)** (`★ 468389`)
+- **[morluto/rea](https://github.com/morluto/rea)** (`★ 469646`)
   _Reverse engineer anything with agents, from app behavior down to native binaries._
 
-- **[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** (`★ 459301`)
+- **[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** (`★ 459342`)
   _freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free._
 
-- **[react/react](https://github.com/react/react)** (`★ 252719`)
+- **[react/react](https://github.com/react/react)** (`★ 252782`)
   _The library for web and native user interfaces._
 
 #### **UI, DESIGN SYSTEMS & CSS**
-- **[onlook-dev/onlook](https://github.com/onlook-dev/onlook)** (`★ 27263`)
+- **[onlook-dev/onlook](https://github.com/onlook-dev/onlook)** (`★ 27298`)
   _The Developer Tool for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers and Visual Engineers to design with Real Code._
 
 - **[pedronauck/docz](https://github.com/pedronauck/docz)** (`★ 23555`)
   _✍ It has never been so easy to document your things!_
 
-- **[gztchan/awesome-design](https://github.com/gztchan/awesome-design)** (`★ 17797`)
+- **[gztchan/awesome-design](https://github.com/gztchan/awesome-design)** (`★ 17802`)
   _🌟 Curated design resources from all over the world._
 
 #### **TOOLING & WEB PERFORMANCE**
@@ -52,11 +52,11 @@
 
 ### <code>( 02 ) // WEB & UI DISCUSSIONS</code>
 
-- [Gemini 4 Neon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/) &nbsp; `▲ 466 pts` &nbsp; `💬 439`
-- [Unauthenticated remote code execution in Nginx](https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities) &nbsp; `▲ 1152 pts` &nbsp; `💬 513`
-- [Seven new models at scalable price-performance](https://microsoft.ai/news/microsoft-ignite-2026/) &nbsp; `▲ 454 pts` &nbsp; `💬 316`
-- [Advancing chip design with OpenAI models](https://openai.com/index/advancing-chip-design-with-our-models/) &nbsp; `▲ 164 pts` &nbsp; `💬 104`
-- [Palo Alto Networks to Acquire Applied Compute for $4.5B](https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquire-applied-compute-bringing-secure-open) &nbsp; `▲ 11 pts` &nbsp; `💬 0`
+- [Pete warden on local AI, open models, voice interfaces, the future of hardware](https://thedataexchange.media/pete-warden-moonshine/) &nbsp; `▲ 123 pts` &nbsp; `💬 99`
+- [Anthropic hits $2T in Nasdaq debut](https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/) &nbsp; `▲ 47 pts` &nbsp; `💬 7`
+- [Launch HN: Onlook (YC W25) – An open-source developer tool for designers](https://github.com/onlook-dev/onlook/) &nbsp; `▲ 18 pts` &nbsp; `💬 13`
+- [I built Cornhole News. A Hacker News inspired site for news across the Midwest](https://cornholenews.news) &nbsp; `▲ 59 pts` &nbsp; `💬 33`
+- [Making 8-page foldable zines from a single A4 sheet in the browser](https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/) &nbsp; `▲ 126 pts` &nbsp; `💬 33`
 
 ---
 
