@@ -1,6 +1,6 @@
 <div align="center">
   <p><code><b>( • ) FRONTEND TECH RADAR &nbsp;|&nbsp; AUTOMATED DAILY PULSE</b></code></p>
-  <h1><b>FRONTEND RADAR // 2026-11-18</b></h1>
+  <h1><b>FRONTEND RADAR // 2026-11-19</b></h1>
   <p>Curated telemetry on TypeScript, React, Next.js, Design Systems, and Web Performance.</p>
 </div>
 
@@ -9,30 +9,30 @@
 ### <code>( 01 ) // TRENDING UI & CLIENT TOOLS</code>
 
 #### **TYPESCRIPT & CORE**
-- **[deepseek-ai/chat-demo](https://github.com/deepseek-ai/chat-demo)** (`★ 4793`)
-  _Chat Demo_
-
-- **[ZiChuanLan/freebie-radar](https://github.com/ZiChuanLan/freebie-radar)** (`★ 1599`)
-  _白嫖与资讯资源聚合雷达：100+个源定时采集 + AI 二审过滤假福利 + 获取方式分级隔离抽奖/试用/推广 + Telegram 即时推送_
-
-- **[opencoredev/islandcn](https://github.com/opencoredev/islandcn)** (`★ 807`)
+- **[opencoredev/islandcn](https://github.com/opencoredev/islandcn)** (`★ 812`)
   _The open-source Dynamic Island for React, installed with shadcn._
 
+- **[ysunyang4/Nexus](https://github.com/ysunyang4/Nexus)** (`★ 406`)
+  _Connect web AI assistants to local files, terminals, Git, and desktop tools through MCP, with user-controlled permissions._
+
+- **[Forward-Future/scarlet](https://github.com/Forward-Future/scarlet)** (`★ 364`)
+  _Scarlet is an AI video editor for macOS and Windows._
+
 #### **REACT & NEXT.JS**
-- **[morluto/rea](https://github.com/morluto/rea)** (`★ 467885`)
+- **[morluto/rea](https://github.com/morluto/rea)** (`★ 468389`)
   _Reverse engineer anything with agents, from app behavior down to native binaries._
 
-- **[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** (`★ 459297`)
+- **[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** (`★ 459301`)
   _freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free._
 
-- **[react/react](https://github.com/react/react)** (`★ 252783`)
+- **[react/react](https://github.com/react/react)** (`★ 252719`)
   _The library for web and native user interfaces._
 
 #### **UI, DESIGN SYSTEMS & CSS**
-- **[onlook-dev/onlook](https://github.com/onlook-dev/onlook)** (`★ 27260`)
+- **[onlook-dev/onlook](https://github.com/onlook-dev/onlook)** (`★ 27263`)
   _The Developer Tool for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers and Visual Engineers to design with Real Code._
 
-- **[pedronauck/docz](https://github.com/pedronauck/docz)** (`★ 23554`)
+- **[pedronauck/docz](https://github.com/pedronauck/docz)** (`★ 23555`)
   _✍ It has never been so easy to document your things!_
 
 - **[gztchan/awesome-design](https://github.com/gztchan/awesome-design)** (`★ 17797`)
@@ -52,11 +52,11 @@
 
 ### <code>( 02 ) // WEB & UI DISCUSSIONS</code>
 
-- [Pre-auth RCE in Nginx HTTP/2 handling](https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities) &nbsp; `▲ 345 pts` &nbsp; `💬 113`
-- [Microsoft AI: Seven new world-class models at scalable price-performance](https://microsoft.ai/news/microsoft-ignite-2026/) &nbsp; `▲ 121 pts` &nbsp; `💬 74`
-- [Pre-auth RCE in Nginx HTTP/2 handling](https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities) &nbsp; `▲ 345 pts` &nbsp; `💬 113`
-- [Microsoft AI: Seven new world-class models at scalable price-performance](https://microsoft.ai/news/microsoft-ignite-2026/) &nbsp; `▲ 121 pts` &nbsp; `💬 74`
-- [Inside Deutsche Bank](https://www.inside-db.com/) &nbsp; `▲ 235 pts` &nbsp; `💬 81`
+- [Gemini 4 Neon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/) &nbsp; `▲ 466 pts` &nbsp; `💬 439`
+- [Unauthenticated remote code execution in Nginx](https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities) &nbsp; `▲ 1152 pts` &nbsp; `💬 513`
+- [Seven new models at scalable price-performance](https://microsoft.ai/news/microsoft-ignite-2026/) &nbsp; `▲ 454 pts` &nbsp; `💬 316`
+- [Advancing chip design with OpenAI models](https://openai.com/index/advancing-chip-design-with-our-models/) &nbsp; `▲ 164 pts` &nbsp; `💬 104`
+- [Palo Alto Networks to Acquire Applied Compute for $4.5B](https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquire-applied-compute-bringing-secure-open) &nbsp; `▲ 11 pts` &nbsp; `💬 0`
 
 ---
 
