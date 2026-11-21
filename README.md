@@ -9,40 +9,40 @@
 ### <code>( 01 ) // TRENDING UI & CLIENT TOOLS</code>
 
 #### **TYPESCRIPT & CORE**
-- **[replit/datacat](https://github.com/replit/datacat)** (`★ 464`)
+- **[replit/datacat](https://github.com/replit/datacat)** (`★ 488`)
   _Self-hosted observability: metrics, logs, traces, dashboards and alerts. Stores data in PostgreSQL or ClickHouse. Accepts OpenTelemetry data._
 
-- **[johnlindquist/pi-emphasis](https://github.com/johnlindquist/pi-emphasis)** (`★ 266`)
+- **[johnlindquist/pi-emphasis](https://github.com/johnlindquist/pi-emphasis)** (`★ 268`)
   _Pi extension: colored status pills with icons, labeled headings and colored bold, so assistant replies are easy to scan_
 
-- **[dmitrykurash/holospot](https://github.com/dmitrykurash/holospot)** (`★ 198`)
-  _The holographic materials of holo.spot for your own three.js scenes, made to be handed to an AI agent_
+- **[INK-Q/agy-fast](https://github.com/INK-Q/agy-fast)** (`★ 243`)
+  _Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affecting native UI or diffs._
 
 #### **REACT & NEXT.JS**
-- **[morluto/rea](https://github.com/morluto/rea)** (`★ 471542`)
+- **[morluto/rea](https://github.com/morluto/rea)** (`★ 472433`)
   _Reverse engineer anything with agents, from app behavior down to native binaries._
 
-- **[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** (`★ 459401`)
+- **[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** (`★ 459431`)
   _freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free._
 
-- **[react/react](https://github.com/react/react)** (`★ 252833`)
+- **[react/react](https://github.com/react/react)** (`★ 252843`)
   _The library for web and native user interfaces._
 
 #### **UI, DESIGN SYSTEMS & CSS**
-- **[onlook-dev/onlook](https://github.com/onlook-dev/onlook)** (`★ 27601`)
+- **[onlook-dev/onlook](https://github.com/onlook-dev/onlook)** (`★ 27685`)
   _The Developer Tool for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers and Visual Engineers to design with Real Code._
 
-- **[pedronauck/docz](https://github.com/pedronauck/docz)** (`★ 23553`)
+- **[pedronauck/docz](https://github.com/pedronauck/docz)** (`★ 23554`)
   _✍ It has never been so easy to document your things!_
 
-- **[gztchan/awesome-design](https://github.com/gztchan/awesome-design)** (`★ 17810`)
+- **[gztchan/awesome-design](https://github.com/gztchan/awesome-design)** (`★ 17812`)
   _🌟 Curated design resources from all over the world._
 
 #### **TOOLING & WEB PERFORMANCE**
-- **[Water-Run/luainstaller](https://github.com/Water-Run/luainstaller)** (`★ 60`)
+- **[Water-Run/luainstaller](https://github.com/Water-Run/luainstaller)** (`★ 61`)
   _A tool that packages Lua scripts into a binary executable. _
 
-- **[razedotbot/solana-ui](https://github.com/razedotbot/solana-ui)** (`★ 56`)
+- **[razedotbot/solana-ui](https://github.com/razedotbot/solana-ui)** (`★ 57`)
   _Solana Multi Wallet Trading Platform - Pump.fun • Raydium • Launchpad • Letsbonk_
 
 - **[openpeeps/bowdy](https://github.com/openpeeps/bowdy)** (`★ 23`)
@@ -52,10 +52,9 @@
 
 ### <code>( 02 ) // WEB & UI DISCUSSIONS</code>
 
-- [Hurried Announcement: Alessandro Masullo GRH](https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/) &nbsp; `▲ 1572 pts` &nbsp; `💬 714`
-- [Inkling 2 Mini](https://thinkingmachines.ai/news/inkling-2-mini/) &nbsp; `▲ 684 pts` &nbsp; `💬 109`
-- [Frostbite: A new CPU architecture discovered, designed and verified by AI](https://architectlabs.com/blog/frostbite) &nbsp; `▲ 628 pts` &nbsp; `💬 328`
-- [Forking TuxGuitar into a 17-EDO tab editor](https://frogwizard.bearblog.dev/tuxguitar-17edo/) &nbsp; `▲ 6 pts` &nbsp; `💬 4`
+- [Derek Lowe: Detonating a Pile of Lead Azide](https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really) &nbsp; `▲ 222 pts` &nbsp; `💬 124`
+- [Lean Verification of the Riemann Hypothesis - Joint statement by...](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/) &nbsp; `▲ 216 pts` &nbsp; `💬 172`
+- [I'm quite pleased by the tech architecture of my art website](https://klauria.tech/klauria-art/) &nbsp; `▲ 27 pts` &nbsp; `💬 4`
 
 ---
 
