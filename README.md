@@ -1,6 +1,6 @@
 <div align="center">
   <p><code><b>( • ) FRONTEND TECH RADAR &nbsp;|&nbsp; AUTOMATED DAILY PULSE</b></code></p>
-  <h1><b>FRONTEND RADAR // 2026-11-20</b></h1>
+  <h1><b>FRONTEND RADAR // 2026-11-21</b></h1>
   <p>Curated telemetry on TypeScript, React, Next.js, Design Systems, and Web Performance.</p>
 </div>
 
@@ -9,33 +9,33 @@
 ### <code>( 01 ) // TRENDING UI & CLIENT TOOLS</code>
 
 #### **TYPESCRIPT & CORE**
-- **[replit/datacat](https://github.com/replit/datacat)** (`★ 450`)
+- **[replit/datacat](https://github.com/replit/datacat)** (`★ 464`)
   _Self-hosted observability: metrics, logs, traces, dashboards and alerts. Stores data in PostgreSQL or ClickHouse. Accepts OpenTelemetry data._
 
-- **[johnlindquist/pi-emphasis](https://github.com/johnlindquist/pi-emphasis)** (`★ 260`)
+- **[johnlindquist/pi-emphasis](https://github.com/johnlindquist/pi-emphasis)** (`★ 266`)
   _Pi extension: colored status pills with icons, labeled headings and colored bold, so assistant replies are easy to scan_
 
-- **[dmitrykurash/holospot](https://github.com/dmitrykurash/holospot)** (`★ 192`)
+- **[dmitrykurash/holospot](https://github.com/dmitrykurash/holospot)** (`★ 198`)
   _The holographic materials of holo.spot for your own three.js scenes, made to be handed to an AI agent_
 
 #### **REACT & NEXT.JS**
-- **[morluto/rea](https://github.com/morluto/rea)** (`★ 471190`)
+- **[morluto/rea](https://github.com/morluto/rea)** (`★ 471542`)
   _Reverse engineer anything with agents, from app behavior down to native binaries._
 
-- **[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** (`★ 459388`)
+- **[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** (`★ 459401`)
   _freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free._
 
-- **[react/react](https://github.com/react/react)** (`★ 252841`)
+- **[react/react](https://github.com/react/react)** (`★ 252833`)
   _The library for web and native user interfaces._
 
 #### **UI, DESIGN SYSTEMS & CSS**
-- **[onlook-dev/onlook](https://github.com/onlook-dev/onlook)** (`★ 27576`)
+- **[onlook-dev/onlook](https://github.com/onlook-dev/onlook)** (`★ 27601`)
   _The Developer Tool for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers and Visual Engineers to design with Real Code._
 
 - **[pedronauck/docz](https://github.com/pedronauck/docz)** (`★ 23553`)
   _✍ It has never been so easy to document your things!_
 
-- **[gztchan/awesome-design](https://github.com/gztchan/awesome-design)** (`★ 17806`)
+- **[gztchan/awesome-design](https://github.com/gztchan/awesome-design)** (`★ 17810`)
   _🌟 Curated design resources from all over the world._
 
 #### **TOOLING & WEB PERFORMANCE**
@@ -52,11 +52,10 @@
 
 ### <code>( 02 ) // WEB & UI DISCUSSIONS</code>
 
-- [Language Models Can Rewrite Their Own Weights](https://arxiv.org/abs/2611.21885) &nbsp; `▲ 67 pts` &nbsp; `💬 20`
-- [Anthropic employee claims general proof of the Riemann Hypothesis [pdf]](https://alpo.ge/remark.pdf) &nbsp; `▲ 1357 pts` &nbsp; `💬 910`
-- [Frostbite: A new CPU architecture discovered, designed and verified by AI](https://architectlabs.com/blog/frostbite) &nbsp; `▲ 470 pts` &nbsp; `💬 268`
-- [Why there are still no non-WebKit browsers on iOS](https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/) &nbsp; `▲ 158 pts` &nbsp; `💬 68`
-- [PostgreSQL 19: A hands-on tour with runnable browser examples](https://certuvia.com/blog/postgres-19) &nbsp; `▲ 4 pts` &nbsp; `💬 0`
+- [Hurried Announcement: Alessandro Masullo GRH](https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/) &nbsp; `▲ 1572 pts` &nbsp; `💬 714`
+- [Inkling 2 Mini](https://thinkingmachines.ai/news/inkling-2-mini/) &nbsp; `▲ 684 pts` &nbsp; `💬 109`
+- [Frostbite: A new CPU architecture discovered, designed and verified by AI](https://architectlabs.com/blog/frostbite) &nbsp; `▲ 628 pts` &nbsp; `💬 328`
+- [Forking TuxGuitar into a 17-EDO tab editor](https://frogwizard.bearblog.dev/tuxguitar-17edo/) &nbsp; `▲ 6 pts` &nbsp; `💬 4`
 
 ---
 
