@@ -1,6 +1,6 @@
 <div align="center">
   <p><code><b>( • ) FRONTEND TECH RADAR &nbsp;|&nbsp; AUTOMATED DAILY PULSE</b></code></p>
-  <h1><b>FRONTEND RADAR // 2026-11-21</b></h1>
+  <h1><b>FRONTEND RADAR // 2026-11-22</b></h1>
   <p>Curated telemetry on TypeScript, React, Next.js, Design Systems, and Web Performance.</p>
 </div>
 
@@ -9,27 +9,27 @@
 ### <code>( 01 ) // TRENDING UI & CLIENT TOOLS</code>
 
 #### **TYPESCRIPT & CORE**
-- **[replit/datacat](https://github.com/replit/datacat)** (`★ 488`)
+- **[replit/datacat](https://github.com/replit/datacat)** (`★ 494`)
   _Self-hosted observability: metrics, logs, traces, dashboards and alerts. Stores data in PostgreSQL or ClickHouse. Accepts OpenTelemetry data._
 
-- **[johnlindquist/pi-emphasis](https://github.com/johnlindquist/pi-emphasis)** (`★ 268`)
-  _Pi extension: colored status pills with icons, labeled headings and colored bold, so assistant replies are easy to scan_
-
-- **[INK-Q/agy-fast](https://github.com/INK-Q/agy-fast)** (`★ 243`)
+- **[INK-Q/agy-fast](https://github.com/INK-Q/agy-fast)** (`★ 252`)
   _Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affecting native UI or diffs._
 
+- **[dmitrykurash/holospot](https://github.com/dmitrykurash/holospot)** (`★ 210`)
+  _The holographic materials of holo.spot for your own three.js scenes, made to be handed to an AI agent_
+
 #### **REACT & NEXT.JS**
-- **[morluto/rea](https://github.com/morluto/rea)** (`★ 472433`)
+- **[morluto/rea](https://github.com/morluto/rea)** (`★ 472799`)
   _Reverse engineer anything with agents, from app behavior down to native binaries._
 
-- **[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** (`★ 459431`)
+- **[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** (`★ 459445`)
   _freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free._
 
-- **[react/react](https://github.com/react/react)** (`★ 252843`)
+- **[react/react](https://github.com/react/react)** (`★ 252820`)
   _The library for web and native user interfaces._
 
 #### **UI, DESIGN SYSTEMS & CSS**
-- **[onlook-dev/onlook](https://github.com/onlook-dev/onlook)** (`★ 27685`)
+- **[onlook-dev/onlook](https://github.com/onlook-dev/onlook)** (`★ 27704`)
   _The Developer Tool for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers and Visual Engineers to design with Real Code._
 
 - **[pedronauck/docz](https://github.com/pedronauck/docz)** (`★ 23554`)
@@ -39,7 +39,7 @@
   _🌟 Curated design resources from all over the world._
 
 #### **TOOLING & WEB PERFORMANCE**
-- **[Water-Run/luainstaller](https://github.com/Water-Run/luainstaller)** (`★ 61`)
+- **[Water-Run/luainstaller](https://github.com/Water-Run/luainstaller)** (`★ 62`)
   _A tool that packages Lua scripts into a binary executable. _
 
 - **[razedotbot/solana-ui](https://github.com/razedotbot/solana-ui)** (`★ 57`)
@@ -52,9 +52,11 @@
 
 ### <code>( 02 ) // WEB & UI DISCUSSIONS</code>
 
-- [Derek Lowe: Detonating a Pile of Lead Azide](https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really) &nbsp; `▲ 222 pts` &nbsp; `💬 124`
-- [Lean Verification of the Riemann Hypothesis - Joint statement by...](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/) &nbsp; `▲ 216 pts` &nbsp; `💬 172`
-- [I'm quite pleased by the tech architecture of my art website](https://klauria.tech/klauria-art/) &nbsp; `▲ 27 pts` &nbsp; `💬 4`
+- [Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'](https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib) &nbsp; `▲ 552 pts` &nbsp; `💬 133`
+- [Lean verification of the Riemann Hypothesis](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/) &nbsp; `▲ 806 pts` &nbsp; `💬 646`
+- [Advice for the next 100 Rust GUIs](https://linebender.org/blog/next-100-guis/) &nbsp; `▲ 71 pts` &nbsp; `💬 6`
+- [Why there are still no non-WebKit browsers on iOS](https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/) &nbsp; `▲ 474 pts` &nbsp; `💬 265`
+- [I'm quite pleased by the tech architecture of my art website](https://klauria.tech/klauria-art/) &nbsp; `▲ 145 pts` &nbsp; `💬 33`
 
 ---
 
