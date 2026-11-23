@@ -9,33 +9,33 @@
 ### <code>( 01 ) // TRENDING UI & CLIENT TOOLS</code>
 
 #### **TYPESCRIPT & CORE**
-- **[replit/datacat](https://github.com/replit/datacat)** (`★ 557`)
-  _Self-hosted observability: metrics, logs, traces, dashboards and alerts. Stores data in PostgreSQL or ClickHouse. Accepts OpenTelemetry data._
-
-- **[INK-Q/agy-fast](https://github.com/INK-Q/agy-fast)** (`★ 527`)
+- **[INK-Q/agy-fast](https://github.com/INK-Q/agy-fast)** (`★ 771`)
   _Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affecting native UI or diffs._
 
-- **[sshkeda/minecraft-server-on-orange-cloud](https://github.com/sshkeda/minecraft-server-on-orange-cloud)** (`★ 391`)
-  _Run a Minecraft Java server entirely on Cloudflare. Sleeps when nobody's playing._
+- **[replit/datacat](https://github.com/replit/datacat)** (`★ 596`)
+  _Self-hosted observability: metrics, logs, traces, dashboards and alerts. Stores data in PostgreSQL or ClickHouse. Accepts OpenTelemetry data._
+
+- **[w01fb0ss/PiBot](https://github.com/w01fb0ss/PiBot)** (`★ 495`)
+  _Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi._
 
 #### **REACT & NEXT.JS**
-- **[morluto/rea](https://github.com/morluto/rea)** (`★ 474125`)
+- **[morluto/rea](https://github.com/morluto/rea)** (`★ 475433`)
   _Reverse engineer anything with agents, from app behavior down to native binaries._
 
-- **[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** (`★ 459505`)
+- **[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** (`★ 459536`)
   _freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free._
 
-- **[react/react](https://github.com/react/react)** (`★ 252934`)
+- **[react/react](https://github.com/react/react)** (`★ 252812`)
   _The library for web and native user interfaces._
 
 #### **UI, DESIGN SYSTEMS & CSS**
-- **[onlook-dev/onlook](https://github.com/onlook-dev/onlook)** (`★ 27779`)
+- **[onlook-dev/onlook](https://github.com/onlook-dev/onlook)** (`★ 27834`)
   _The Developer Tool for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers and Visual Engineers to design with Real Code._
 
 - **[pedronauck/docz](https://github.com/pedronauck/docz)** (`★ 23553`)
   _✍ It has never been so easy to document your things!_
 
-- **[gztchan/awesome-design](https://github.com/gztchan/awesome-design)** (`★ 17816`)
+- **[gztchan/awesome-design](https://github.com/gztchan/awesome-design)** (`★ 17817`)
   _🌟 Curated design resources from all over the world._
 
 #### **TOOLING & WEB PERFORMANCE**
@@ -52,11 +52,11 @@
 
 ### <code>( 02 ) // WEB & UI DISCUSSIONS</code>
 
-- [Progress map for the Lean formalization of Alessandro Masullo's manuscript](https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3) &nbsp; `▲ 136 pts` &nbsp; `💬 97`
-- [A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth](https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth) &nbsp; `▲ 187 pts` &nbsp; `💬 70`
-- [The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife](https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife) &nbsp; `▲ 338 pts` &nbsp; `💬 150`
-- [Show HN: I built a game where you are an LLM's subagent](https://github.com/gulivan/worker755) &nbsp; `▲ 269 pts` &nbsp; `💬 62`
-- [Open Social Web Alliance](https://osw-alliance.net/en/) &nbsp; `▲ 219 pts` &nbsp; `💬 213`
+- ["Per ARM's Request, This Site Will Be Discontinued on 4 December 2026"](https://arm.jonpalmisc.com/) &nbsp; `▲ 445 pts` &nbsp; `💬 90`
+- [Nvidia Reinstates Jensen Huang as CEO](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html) &nbsp; `▲ 1527 pts` &nbsp; `💬 2653`
+- [Free alternative TV network built from the Internet Archive's forgotten videos](https://spelunkr.tv) &nbsp; `▲ 878 pts` &nbsp; `💬 152`
+- [XNU Linux: Full OS X GUI Userspace on Linux](https://github.com/AFK-surf/xnulinux) &nbsp; `▲ 570 pts` &nbsp; `💬 236`
+- [Building a wireless network adapter for the Super Nintendo](https://boland.dev/snet/) &nbsp; `▲ 58 pts` &nbsp; `💬 16`
 
 ---
 
