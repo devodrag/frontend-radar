@@ -9,33 +9,33 @@
 ### <code>( 01 ) // TRENDING UI & CLIENT TOOLS</code>
 
 #### **TYPESCRIPT & CORE**
-- **[INK-Q/agy-fast](https://github.com/INK-Q/agy-fast)** (`★ 816`)
+- **[INK-Q/agy-fast](https://github.com/INK-Q/agy-fast)** (`★ 1137`)
   _Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affecting native UI or diffs._
 
-- **[w01fb0ss/PiBot](https://github.com/w01fb0ss/PiBot)** (`★ 511`)
+- **[qianyiai/kurocat](https://github.com/qianyiai/kurocat)** (`★ 598`)
+  _KuroCat — Free open-source desktop typing cat pet & OBS overlay (Bongo Cat alternative, Tauri v2 + Rust + MCP)｜轻量级透明置顶桌面打字小黑猫伴侣（6款猫咪+鲸鱼娘大肥鱼 / 输密码防偷窥 / OBS透明源 / AI捏猫 / Win·Mac·Linux·Android）_
+
+- **[w01fb0ss/PiBot](https://github.com/w01fb0ss/PiBot)** (`★ 554`)
   _Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi._
 
-- **[sshkeda/minecraft-server-on-orange-cloud](https://github.com/sshkeda/minecraft-server-on-orange-cloud)** (`★ 422`)
-  _Run a Minecraft Java server entirely on Cloudflare. Sleeps when nobody's playing._
-
 #### **REACT & NEXT.JS**
-- **[morluto/rea](https://github.com/morluto/rea)** (`★ 475864`)
+- **[morluto/rea](https://github.com/morluto/rea)** (`★ 476910`)
   _Reverse engineer anything with agents, from app behavior down to native binaries._
 
-- **[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** (`★ 459545`)
+- **[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** (`★ 459574`)
   _freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free._
 
-- **[react/react](https://github.com/react/react)** (`★ 252819`)
+- **[react/react](https://github.com/react/react)** (`★ 252853`)
   _The library for web and native user interfaces._
 
 #### **UI, DESIGN SYSTEMS & CSS**
-- **[onlook-dev/onlook](https://github.com/onlook-dev/onlook)** (`★ 27849`)
+- **[onlook-dev/onlook](https://github.com/onlook-dev/onlook)** (`★ 27886`)
   _The Developer Tool for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers and Visual Engineers to design with Real Code._
 
-- **[pedronauck/docz](https://github.com/pedronauck/docz)** (`★ 23553`)
+- **[pedronauck/docz](https://github.com/pedronauck/docz)** (`★ 23552`)
   _✍ It has never been so easy to document your things!_
 
-- **[gztchan/awesome-design](https://github.com/gztchan/awesome-design)** (`★ 17819`)
+- **[gztchan/awesome-design](https://github.com/gztchan/awesome-design)** (`★ 17820`)
   _🌟 Curated design resources from all over the world._
 
 #### **TOOLING & WEB PERFORMANCE**
@@ -52,11 +52,11 @@
 
 ### <code>( 02 ) // WEB & UI DISCUSSIONS</code>
 
-- [Nvidia Reinstates Jensen Huang as CEO](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html) &nbsp; `▲ 2339 pts` &nbsp; `💬 3322`
-- [Stalwart is now a drop-in replacement for Microsoft Exchange](https://stalw.art/blog/microsoft-exchange-replacement/) &nbsp; `▲ 324 pts` &nbsp; `💬 151`
-- [GPUI is getting its own repository](https://github.com/zed-industries/gpui) &nbsp; `▲ 194 pts` &nbsp; `💬 66`
-- [Bored.com: Fun, interesting and cool websites to explore when bored](https://www.bored.com/) &nbsp; `▲ 169 pts` &nbsp; `💬 40`
-- [Declare is a UI language for you and your AI](https://davidtemkin.github.io/declarelang/) &nbsp; `▲ 22 pts` &nbsp; `💬 3`
+- [What Cloudflare Doesn't Tell You](https://charlie.fish/posts/2026/11/what-cloudflare-doesnt-tell-you/) &nbsp; `▲ 49 pts` &nbsp; `💬 22`
+- [Active Intrusion Campaign Against Check Point Security Management Servers](https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign) &nbsp; `▲ 204 pts` &nbsp; `💬 70`
+- [Show HN: Mason – a lightweight Postgres read-replica, built on columnar storage](https://masondata.ai/) &nbsp; `▲ 47 pts` &nbsp; `💬 5`
+- [Weave (YC W25) is hiring ML, AI, product, & design engineers](https://jobs.ashbyhq.com/weave-os) &nbsp; `▲ 1 pts` &nbsp; `💬 0`
+- [Compiling Web Applications into Verified Operations for AI Agents](https://protocolis.co/paper/) &nbsp; `▲ 9 pts` &nbsp; `💬 0`
 
 ---
 
