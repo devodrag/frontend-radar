@@ -9,33 +9,33 @@
 ### <code>( 01 ) // TRENDING UI & CLIENT TOOLS</code>
 
 #### **TYPESCRIPT & CORE**
-- **[INK-Q/agy-fast](https://github.com/INK-Q/agy-fast)** (`★ 1248`)
+- **[INK-Q/agy-fast](https://github.com/INK-Q/agy-fast)** (`★ 1489`)
   _Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affecting native UI or diffs._
 
-- **[qianyiai/kurocat](https://github.com/qianyiai/kurocat)** (`★ 682`)
+- **[qianyiai/kurocat](https://github.com/qianyiai/kurocat)** (`★ 944`)
   _KuroCat — Free open-source desktop typing cat pet & OBS overlay (Bongo Cat alternative, Tauri v2 + Rust + MCP)｜轻量级透明置顶桌面打字小黑猫伴侣（6款猫咪+鲸鱼娘大肥鱼 / 输密码防偷窥 / OBS透明源 / AI捏猫 / Win·Mac·Linux·Android）_
 
 - **[Basil0879/steam-game-idler](https://github.com/Basil0879/steam-game-idler)** (`★ 682`)
   _Free Steam idler for trading card farming, achievement management, playtime boosting and multi-account automation on Windows._
 
 #### **REACT & NEXT.JS**
-- **[morluto/rea](https://github.com/morluto/rea)** (`★ 477339`)
+- **[morluto/rea](https://github.com/morluto/rea)** (`★ 478227`)
   _Reverse engineer anything with agents, from app behavior down to native binaries._
 
-- **[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** (`★ 459588`)
+- **[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** (`★ 459626`)
   _freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free._
 
-- **[react/react](https://github.com/react/react)** (`★ 252881`)
+- **[react/react](https://github.com/react/react)** (`★ 252945`)
   _The library for web and native user interfaces._
 
 #### **UI, DESIGN SYSTEMS & CSS**
-- **[onlook-dev/onlook](https://github.com/onlook-dev/onlook)** (`★ 27899`)
+- **[onlook-dev/onlook](https://github.com/onlook-dev/onlook)** (`★ 27936`)
   _The Developer Tool for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers and Visual Engineers to design with Real Code._
 
-- **[pedronauck/docz](https://github.com/pedronauck/docz)** (`★ 23552`)
+- **[pedronauck/docz](https://github.com/pedronauck/docz)** (`★ 23553`)
   _✍ It has never been so easy to document your things!_
 
-- **[gztchan/awesome-design](https://github.com/gztchan/awesome-design)** (`★ 17821`)
+- **[gztchan/awesome-design](https://github.com/gztchan/awesome-design)** (`★ 17824`)
   _🌟 Curated design resources from all over the world._
 
 #### **TOOLING & WEB PERFORMANCE**
@@ -52,11 +52,11 @@
 
 ### <code>( 02 ) // WEB & UI DISCUSSIONS</code>
 
-- [Matrix Multiplication is Θ(n^2.25) [pdf]](https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf) &nbsp; `▲ 243 pts` &nbsp; `💬 95`
-- [Ternary Bonsai 2.5 27B](https://prismml.com/news/bonsai-2-5-27b) &nbsp; `▲ 371 pts` &nbsp; `💬 127`
-- [GPT-6 models demonstrate intrinsic protein-design capabilities](https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/) &nbsp; `▲ 200 pts` &nbsp; `💬 60`
-- [Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native](https://rida.dev/blog/bypassing-ios-safari-60-fps-limit) &nbsp; `▲ 3 pts` &nbsp; `💬 0`
-- [Weave (YC W25) is hiring ML, AI, product, & design engineers](https://jobs.ashbyhq.com/weave-os) &nbsp; `▲ 1 pts` &nbsp; `💬 0`
+- [1Password Security Incident](https://1password.com/blog/update-on-nov-2026-security-incident) &nbsp; `▲ 305 pts` &nbsp; `💬 136`
+- [A few questions for the guy who went snorkeling in a Home Depot retention pond](https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts) &nbsp; `▲ 318 pts` &nbsp; `💬 82`
+- [Show HN: Old Nvidia and ATI tech demos, running again in the browser](https://gpu-demo-gallery.pages.dev/) &nbsp; `▲ 293 pts` &nbsp; `💬 65`
+- [Hazel (YC W24) Is Hiring a Product Designer](https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract) &nbsp; `▲ 1 pts` &nbsp; `💬 0`
+- [Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native](https://rida.dev/blog/bypassing-ios-safari-60-fps-limit) &nbsp; `▲ 392 pts` &nbsp; `💬 132`
 
 ---
 
