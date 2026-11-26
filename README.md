@@ -1,6 +1,6 @@
 <div align="center">
   <p><code><b>( • ) FRONTEND TECH RADAR &nbsp;|&nbsp; AUTOMATED DAILY PULSE</b></code></p>
-  <h1><b>FRONTEND RADAR // 2026-11-25</b></h1>
+  <h1><b>FRONTEND RADAR // 2026-11-26</b></h1>
   <p>Curated telemetry on TypeScript, React, Next.js, Design Systems, and Web Performance.</p>
 </div>
 
@@ -9,33 +9,33 @@
 ### <code>( 01 ) // TRENDING UI & CLIENT TOOLS</code>
 
 #### **TYPESCRIPT & CORE**
-- **[INK-Q/agy-fast](https://github.com/INK-Q/agy-fast)** (`★ 1489`)
-  _Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affecting native UI or diffs._
+- **[qianyiai/kurocat](https://github.com/qianyiai/kurocat)** (`★ 1038`)
+  _KuroCat — Free open-source 3D/2D desktop typing cat & AI coding companion (Bongo Cat alternative · Tauri v2 + Rust + MCP · Claude/Codex/DeepSeek/OBS · Win/Mac/Linux/Android)｜开源3D桌面打字小黑猫与AI伴侣_
 
-- **[qianyiai/kurocat](https://github.com/qianyiai/kurocat)** (`★ 944`)
-  _KuroCat — Free open-source desktop typing cat pet & OBS overlay (Bongo Cat alternative, Tauri v2 + Rust + MCP)｜轻量级透明置顶桌面打字小黑猫伴侣（6款猫咪+鲸鱼娘大肥鱼 / 输密码防偷窥 / OBS透明源 / AI捏猫 / Win·Mac·Linux·Android）_
-
-- **[Basil0879/steam-game-idler](https://github.com/Basil0879/steam-game-idler)** (`★ 682`)
+- **[Basil0879/steam-game-idler](https://github.com/Basil0879/steam-game-idler)** (`★ 681`)
   _Free Steam idler for trading card farming, achievement management, playtime boosting and multi-account automation on Windows._
 
+- **[w01fb0ss/PiBot](https://github.com/w01fb0ss/PiBot)** (`★ 603`)
+  _Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi._
+
 #### **REACT & NEXT.JS**
-- **[morluto/rea](https://github.com/morluto/rea)** (`★ 478227`)
+- **[morluto/rea](https://github.com/morluto/rea)** (`★ 478612`)
   _Reverse engineer anything with agents, from app behavior down to native binaries._
 
-- **[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** (`★ 459626`)
+- **[freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)** (`★ 459645`)
   _freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free._
 
-- **[react/react](https://github.com/react/react)** (`★ 252945`)
+- **[react/react](https://github.com/react/react)** (`★ 252973`)
   _The library for web and native user interfaces._
 
 #### **UI, DESIGN SYSTEMS & CSS**
-- **[onlook-dev/onlook](https://github.com/onlook-dev/onlook)** (`★ 27936`)
+- **[onlook-dev/onlook](https://github.com/onlook-dev/onlook)** (`★ 27952`)
   _The Developer Tool for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers and Visual Engineers to design with Real Code._
 
 - **[pedronauck/docz](https://github.com/pedronauck/docz)** (`★ 23553`)
   _✍ It has never been so easy to document your things!_
 
-- **[gztchan/awesome-design](https://github.com/gztchan/awesome-design)** (`★ 17824`)
+- **[gztchan/awesome-design](https://github.com/gztchan/awesome-design)** (`★ 17825`)
   _🌟 Curated design resources from all over the world._
 
 #### **TOOLING & WEB PERFORMANCE**
@@ -52,11 +52,10 @@
 
 ### <code>( 02 ) // WEB & UI DISCUSSIONS</code>
 
-- [1Password Security Incident](https://1password.com/blog/update-on-nov-2026-security-incident) &nbsp; `▲ 305 pts` &nbsp; `💬 136`
-- [A few questions for the guy who went snorkeling in a Home Depot retention pond](https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts) &nbsp; `▲ 318 pts` &nbsp; `💬 82`
-- [Show HN: Old Nvidia and ATI tech demos, running again in the browser](https://gpu-demo-gallery.pages.dev/) &nbsp; `▲ 293 pts` &nbsp; `💬 65`
-- [Hazel (YC W24) Is Hiring a Product Designer](https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract) &nbsp; `▲ 1 pts` &nbsp; `💬 0`
-- [Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native](https://rida.dev/blog/bypassing-ios-safari-60-fps-limit) &nbsp; `▲ 392 pts` &nbsp; `💬 132`
+- [1Password Security Incident](https://1password.com/blog/update-on-nov-2026-security-incident) &nbsp; `▲ 1224 pts` &nbsp; `💬 517`
+- [Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening](https://scottaaronson.blog/?p=10379) &nbsp; `▲ 1003 pts` &nbsp; `💬 852`
+- [SSH is a GUI framework](https://zydra.sh/articles/ssh-is-a-gui-framework/) &nbsp; `▲ 147 pts` &nbsp; `💬 76`
+- [Collection of preserved UI style guides](https://aresluna.org/ui-style-guides/) &nbsp; `▲ 17 pts` &nbsp; `💬 1`
 
 ---
 
